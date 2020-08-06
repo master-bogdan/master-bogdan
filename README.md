@@ -19,3 +19,14 @@ Technologies which I learn now
 
 Technologies where I have some knowlegies
 - CMS: WordPress
+
+## Projects
+#### HTML & CSS Layout coding
+
+#### Vanilla JS apps
+Weather app :sunny: :umbrella: :cloud:
+[code](https://github.com/master-bogdan/weather-app) | [page] (https://master-bogdan.github.io/weather-app/)
+
+
+
+#### React.js apps
