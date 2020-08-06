@@ -1,7 +1,7 @@
 Welcome to Master Bogdan git-hub page
 ==================
 
-I am looking for trainee / junior frontend developer position
+## I am looking for trainee / junior frontend developer position
 
 ### Technologies
 - Frontend: HTML5, CSS3, JavaScript, ES6+, Gulp, SASS / SCSS, NPM
