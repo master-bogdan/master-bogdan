@@ -20,7 +20,9 @@ Technologies which I learn now
 Technologies where I have some knowlegies
 - CMS: WordPress
 
-## Projects
+## My Portfolio
+
+In all projects README.md with instructions
 
 #### HTML & CSS Layout coding
 - HTML & CSS Google style popup
@@ -29,7 +31,12 @@ Technologies where I have some knowlegies
 {[code](https://github.com/master-bogdan/apollo-bootstrap-project) || [demo](https://master-bogdan.github.io/apollo-bootstrap-project/)}
 - BeLatte layout from PSD
 {[code](https://github.com/master-bogdan/belatte) || [demo](https://master-bogdan.github.io/belatte/)}
-- 
+- CV page with pdf download function (real project)
+{[code](https://github.com/master-bogdan/Irina-resume) || [demo](https://master-bogdan.github.io/Irina-resume/)}
+- First layout from PSD with animations
+{[code](https://github.com/master-bogdan/first-work) || [demo](https://master-bogdan.github.io/first-work/)}
+- Dude PSD layout
+{[code](https://github.com/master-bogdan/second-work) || [demo](https://master-bogdan.github.io/second-work/)}
 
 #### Vanilla JS apps
 - Weather app :sunny: :umbrella: :cloud:
