@@ -1,4 +1,4 @@
-Welcome to Master Bogdan git-hub page
+Welcome to My github page
 ==================
 
 ## I am looking for trainee / junior frontend developer position
@@ -23,10 +23,19 @@ Technologies where I have some knowlegies
 ## Projects
 
 #### HTML & CSS Layout coding
+- HTML & CSS Google style popup
+[code](https://github.com/master-bogdan/html-css-popup) || [demo](https://master-bogdan.github.io/html-css-popup/)
+- Appolo layout from PSD with Boostrap
+[code](https://github.com/master-bogdan/apollo-bootstrap-project) || [demo](https://master-bogdan.github.io/apollo-bootstrap-project/)
+- BeLatte layout from PSD
+[code](https://github.com/master-bogdan/belatte) || [demo](https://master-bogdan.github.io/belatte/)
+- 
 
 #### Vanilla JS apps
-Weather app :sunny: :umbrella: :cloud:
-[code](https://github.com/master-bogdan/weather-app) || [page](https://master-bogdan.github.io/weather-app/)
+- Weather app :sunny: :umbrella: :cloud:
+[code](https://github.com/master-bogdan/weather-app) || [demo](https://master-bogdan.github.io/weather-app/)
+- ToDo list app
+[code](https://github.com/master-bogdan/js-todo-list) || [demo](https://master-bogdan.github.io/js-todo-list/)
 
 
 #### React.js apps
