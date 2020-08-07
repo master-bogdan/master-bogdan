@@ -24,11 +24,11 @@ Technologies where I have some knowlegies
 
 #### HTML & CSS Layout coding
 - HTML & CSS Google style popup
-[code](https://github.com/master-bogdan/html-css-popup) || [demo](https://master-bogdan.github.io/html-css-popup/)
+{[code](https://github.com/master-bogdan/html-css-popup) || [demo](https://master-bogdan.github.io/html-css-popup/)}
 - Appolo layout from PSD with Boostrap
-[code](https://github.com/master-bogdan/apollo-bootstrap-project) || [demo](https://master-bogdan.github.io/apollo-bootstrap-project/)
+{[code](https://github.com/master-bogdan/apollo-bootstrap-project) || [demo](https://master-bogdan.github.io/apollo-bootstrap-project/)}
 - BeLatte layout from PSD
-[code](https://github.com/master-bogdan/belatte) || [demo](https://master-bogdan.github.io/belatte/)
+{[code](https://github.com/master-bogdan/belatte) || [demo](https://master-bogdan.github.io/belatte/)}
 - 
 
 #### Vanilla JS apps
