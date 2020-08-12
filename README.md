@@ -1,7 +1,27 @@
-Welcome to My github page :octocat:
+:octocat: Welcome to My github page 
 ==================
 
 ## I am looking for trainee / junior frontend developer position
+
+### Courses what I finish
+- Itgid.info 
+  - JavaScript 2.0 
+  - OOP
+  - React Lite Level
+  - PHP
+- Freecodecamp 
+  - Responsive web design
+  - JavaScript algorithms and data structures
+  - Frontend libraries
+- Codecademy
+  - HTML5
+  - CSS3
+  - Javascript / React
+- Udemy
+  - Web developer 2020
+  - Полный курс по JS + React/Redux с нуля до результата (Full JS & React/Redux course)
+  
+Here you can find my cerfiticates - [CERTIFICATIONS](https://github.com/master-bogdan/master-bogdan)
 
 ### Technologies
 - Frontend: HTML5, CSS3, JavaScript, ES6+, Gulp, SASS / SCSS, NPM
@@ -38,10 +58,18 @@ Projects sort from oldest to new
 {[code](https://github.com/master-bogdan/Irina-resume) || [demo](https://master-bogdan.github.io/Irina-resume/)}
 - :mortar_board: HTML & CSS landingpage layout from PSD
 {[code](https://github.com/master-bogdan/landingpage-intensive) || [demo](https://master-bogdan.github.io/landingpage-intensive/)}
+- :oncoming_taxi: HTML & CSS Uber landingpage
+{[code](https://github.com/master-bogdan/uber-landingpage) || [demo](https://master-bogdan.github.io/uber-landingpage/)}
 - :coffee: HTML & CSS BeLatte layout from PSD
 {[code](https://github.com/master-bogdan/belatte) || [demo](https://master-bogdan.github.io/belatte/)}
 - :hamburger: :wine_glass: :coffee: HTML5 & CSS3 & JS Lambda page from PSD
 {[code](https://github.com/master-bogdan/lambda-project) || [demo](https://master-bogdan.github.io/lambda-project/)}
+- :dollar: HTML5 & CSS3 & JS - BRANDLY - SHOP
+{[code](https://github.com/master-bogdan/brandly-shop) || [demo](https://master-bogdan.github.io/brandly-shop/)}
+- :cyclone: HTML5 & CSS3 & JS coding from PSD Pengi
+{[code](https://github.com/master-bogdan/pengi-project) || [demo](https://master-bogdan.github.io/pengi-project/)}
+- Real project for client (in process)
+{[code](https://github.com/master-bogdan/nastya-project) || [demo](https://master-bogdan.github.io/nastya-project/)}
 
 #### Vanilla JS apps
 - :sunny: :umbrella: :cloud: Weather app 
@@ -61,3 +89,5 @@ Projects sort from oldest to new
 
 
 #### React.js apps
+- :dolls: React friend app
+[[CODE](https://github.com/master-bogdan/react-friends-app) || [DEMO](https://master-bogdan.github.io/react-friends-app/)]
