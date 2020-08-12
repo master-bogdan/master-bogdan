@@ -31,7 +31,7 @@ Here you can find my cerfiticates - [CERTIFICATIONS](https://github.com/master-b
 - IDE: VSCode
 - Platforms: Linux, Windows
 
-### Another 
+### Other 
 Technologies which I learn now
 - PHP
 - Node.js
