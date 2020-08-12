@@ -1,4 +1,4 @@
-Welcome to My github page
+Welcome to My github page :octocat:
 ==================
 
 ## I am looking for trainee / junior frontend developer position
@@ -24,25 +24,40 @@ Technologies where I have some knowlegies
 
 In all projects README.md with instructions
 
-#### HTML & CSS & JS Layout coding
-- HTML & CSS Google style popup
-{[code](https://github.com/master-bogdan/html-css-popup) || [demo](https://master-bogdan.github.io/html-css-popup/)}
-- HTML & CSS Appolo layout from PSD with Boostrap
-{[code](https://github.com/master-bogdan/apollo-bootstrap-project) || [demo](https://master-bogdan.github.io/apollo-bootstrap-project/)}
-- HTML & CSS BeLatte layout from PSD
-{[code](https://github.com/master-bogdan/belatte) || [demo](https://master-bogdan.github.io/belatte/)}
-- HTML & CSS CV page with pdf download function (real project)
-{[code](https://github.com/master-bogdan/Irina-resume) || [demo](https://master-bogdan.github.io/Irina-resume/)}
-- HTML & CSS First layout from PSD with animations
+#### HTML & CSS & JS Layout coding  
+Projects sort from oldest to new
+- :rage2: HTML & CSS First layout from PSD with animations
 {[code](https://github.com/master-bogdan/first-work) || [demo](https://master-bogdan.github.io/first-work/)}
-- HTML & CSS Dude layout from PSD
+- :alien: HTML & CSS Dude layout from PSD
 {[code](https://github.com/master-bogdan/second-work) || [demo](https://master-bogdan.github.io/second-work/)}
+- :beginner: HTML & CSS Appolo layout from PSD with Boostrap
+{[code](https://github.com/master-bogdan/apollo-bootstrap-project) || [demo](https://master-bogdan.github.io/apollo-bootstrap-project/)}
+- :postal_horn: HTML & CSS Google style popup 
+{[code](https://github.com/master-bogdan/html-css-popup) || [demo](https://master-bogdan.github.io/html-css-popup/)}
+- :ok_woman: HTML & CSS CV page with pdf download function (real project)
+{[code](https://github.com/master-bogdan/Irina-resume) || [demo](https://master-bogdan.github.io/Irina-resume/)}
+- :mortar_board: HTML & CSS landingpage layout from PSD
+{[code](https://github.com/master-bogdan/landingpage-intensive) || [demo](https://master-bogdan.github.io/landingpage-intensive/)}
+- :coffee: HTML & CSS BeLatte layout from PSD
+{[code](https://github.com/master-bogdan/belatte) || [demo](https://master-bogdan.github.io/belatte/)}
+- :hamburger: :wine_glass: :coffee: HTML5 & CSS3 & JS Lambda page from PSD
+{[code](https://github.com/master-bogdan/lambda-project) || [demo](https://master-bogdan.github.io/lambda-project/)}
 
 #### Vanilla JS apps
-- Weather app :sunny: :umbrella: :cloud:
-[code](https://github.com/master-bogdan/weather-app) || [demo](https://master-bogdan.github.io/weather-app/)
-- ToDo list app
-[code](https://github.com/master-bogdan/js-todo-list) || [demo](https://master-bogdan.github.io/js-todo-list/)
+- :sunny: :umbrella: :cloud: Weather app 
+[[code](https://github.com/master-bogdan/weather-app) || [demo](https://master-bogdan.github.io/weather-app/)]
+- :video_game: Tetris
+[[code](https://github.com/master-bogdan/js-tetris) || [demo](https://master-bogdan.github.io/js-tetris/)]
+- :open_file_folder: JS Native Sidebar Menu
+[[code](https://github.com/master-bogdan/js-sidebar-menu) || [demo](https://master-bogdan.github.io/js-sidebar-menu/)]
+- :video_game: Tic Tac Toe
+[[code](https://github.com/master-bogdan/js-tic-tac-toe) || [demo](https://master-bogdan.github.io/js-tic-tac-toe/)]
+- :whale2: JS Tiny Underwater World OOP
+[[code](https://github.com/master-bogdan/js-tiny-world) || [demo](https://master-bogdan.github.io/js-tiny-world/)]
+- :closed_book: JS Quote Machine
+[[code](https://github.com/master-bogdan/js-quote-machine) || [demo](https://master-bogdan.github.io/js-quote-machine/)]
+- :scroll: ToDo list app 
+[[code](https://github.com/master-bogdan/js-todo-list) || [demo](https://master-bogdan.github.io/js-todo-list/)]
 
 
 #### React.js apps
