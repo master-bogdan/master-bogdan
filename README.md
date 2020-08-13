@@ -90,4 +90,4 @@ Projects sort from oldest to new
 
 #### React.js apps
 - :dolls: React friend app
-[[CODE](https://github.com/master-bogdan/react-friends-app) || [DEMO](https://master-bogdan.github.io/react-friends-app/)]
+[[CODE](https://github.com/master-bogdan/react-friends-app/tree/master) || [DEMO](https://master-bogdan.github.io/react-friends-app/)]
