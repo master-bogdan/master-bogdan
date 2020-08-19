@@ -95,3 +95,5 @@ Projects sort from oldest to new
 [[CODE](https://github.com/master-bogdan/react-friends-app/tree/master) || [DEMO](https://master-bogdan.github.io/react-friends-app/)]
 - :dart: React memory game
 [[CODE](https://github.com/master-bogdan/react-memory-pair-game/tree/master) || [DEMO](https://master-bogdan.github.io/react-memory-pair-game/)]
+- :earth_africa: React NASA app (IN PROCESS)
+[[CODE](https://github.com/master-bogdan/nasa-app/tree/master) || [DEMO](https://master-bogdan.github.io/nasa-app/)]
