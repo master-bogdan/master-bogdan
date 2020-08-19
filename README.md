@@ -92,5 +92,5 @@ Projects sort from oldest to new
 #### React.js apps
 - :dolls: React friend app
 [[CODE](https://github.com/master-bogdan/react-friends-app/tree/master) || [DEMO](https://master-bogdan.github.io/react-friends-app/)]
-- :dart: React memory game (IN PROCESS)
+- :dart: React memory game
 [[CODE](https://github.com/master-bogdan/react-memory-pair-game/tree/master) || [DEMO](https://master-bogdan.github.io/react-memory-pair-game/)]
