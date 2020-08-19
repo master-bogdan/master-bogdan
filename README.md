@@ -34,6 +34,7 @@ Here you can find my cerfiticates - [CERTIFICATIONS](https://github.com/master-b
 ### Other 
 Technologies which I learn now
 - PHP
+- Data Bases (MySQL, MariaDB)
 - Node.js
 - Improve React.js skill
 
