@@ -1,53 +1,53 @@
-:octocat: Welcome to My github page 
+:octocat: WELCOME TO MY GITHUB PAGE 
 ==================
 
-## I am looking for trainee / junior frontend developer position
+## I AM LOOKING FOR TRAINEE/JUNIOR FRONTEND DEVELOPER JOB
 
-### Courses what I finish
-- Itgid.info 
+### FINISHED COURSES
+- **Itgid.info** 
   - JavaScript 2.0 
   - OOP
   - React Lite Level
   - PHP
-- Freecodecamp 
+- **Freecodecamp** 
   - Responsive web design
   - JavaScript algorithms and data structures
   - Frontend libraries
-- Codecademy
+- **Codecademy**
   - HTML5
   - CSS3
   - Javascript / React
-- Udemy
+- **Udemy**
   - Web developer 2020
   - Полный курс по JS + React/Redux с нуля до результата (Full JS & React/Redux course)
   
 >Here you can find my cerfiticates - [CERTIFICATIONS](https://github.com/master-bogdan/master-bogdan)    
 >Here you can find my CV - [CV](https://github.com/master-bogdan/master-bogdan/blob/master/Frontend%20(4).pdf)
 
-### Technologies
-- Frontend: HTML5, CSS3, JavaScript, ES6+, Gulp, SASS / SCSS, NPM
-- Framework: React, Bootstrap
-- UX tools: Figma, Adobe Photoshop, Avocode
-- VCS: GitHub, GitLab
-- IDE: VSCode
-- Platforms: Linux, Windows
+### TECHNOLOGIES
+- **Frontend**: HTML5, CSS3, JavaScript, ES6+, Gulp, SASS / SCSS, NPM
+- **Framework**: React, Bootstrap
+- **UX tools**: Figma, Adobe Photoshop, Avocode
+- **VCS**: GitHub, GitLab
+- **IDE**: VSCode
+- **Platforms**: Linux, Windows
 
-### Other 
-Technologies which I learn now
+### OTHER 
+**Technologies which I learn now**
 - PHP
 - Data Bases (MySQL, MariaDB)
 - Node.js
 - Improve React.js skill
 
-Technologies where I have some knowlegies
+**Technologies where I have some knowlegies**
 - CMS: WordPress
 
-## My Portfolio
+## MY PORTFOLIO
 
-In all projects README.md with instructions
+**In all projects README.md with instructions**
 
 #### HTML & CSS & JS Layout coding  
-Projects sort from oldest to new
+**Projects sort from oldest to new**
 - :rage2: HTML & CSS First layout from PSD with animations
 {[code](https://github.com/master-bogdan/first-work) || [demo](https://master-bogdan.github.io/first-work/)}
 - :alien: HTML & CSS Dude layout from PSD
