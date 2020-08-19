@@ -21,7 +21,8 @@
   - Web developer 2020
   - Полный курс по JS + React/Redux с нуля до результата (Full JS & React/Redux course)
   
-Here you can find my cerfiticates and CV - [CERTIFICATIONS & CV](https://github.com/master-bogdan/master-bogdan)
+>Here you can find my cerfiticates - [CERTIFICATIONS](https://github.com/master-bogdan/master-bogdan)    
+>Here you can find my CV - [CV](https://github.com/master-bogdan/master-bogdan/blob/master/Frontend%20(4).pdf)
 
 ### Technologies
 - Frontend: HTML5, CSS3, JavaScript, ES6+, Gulp, SASS / SCSS, NPM
