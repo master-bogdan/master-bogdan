@@ -37,10 +37,11 @@
 - PHP
 - Data Bases (MySQL, MariaDB)
 - Node.js
-- Improve React.js skill
+- React-redux
 
 **Technologies where I have some knowlegies**
 - CMS: WordPress
+- Basic Linux bash terminal
 
 ## MY PORTFOLIO
 
