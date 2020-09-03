@@ -6,7 +6,7 @@
 ### FINISHED COURSES
 - **Itgid.info** 
   - JavaScript 2.0 
-  - OOP
+  - JavaScript OOP
   - React Lite Level
   - PHP
 - **Freecodecamp** 
@@ -18,15 +18,17 @@
   - CSS3
   - Javascript / React
 - **Udemy**
-  - Web developer 2020
-  - Полный курс по JS + React/Redux с нуля до результата (Full JS & React/Redux course)
+  - Web developer 2020 (HTML5, CSS3, Basic JS) (Ivan Petrichenko)
+  - Wordpress theme developing (Ivan Petrichenko)
+  - Full JavaScript & React/Redux course from beginner level (Ivan Petrichenko)
+  - ReactJS practical course (Hooks, Classes, Redux) (Vladilen Minin)
   
 >Here you can find my cerfiticates - [CERTIFICATIONS](https://github.com/master-bogdan/master-bogdan)    
 >Here you can find my CV - [CV](https://github.com/master-bogdan/master-bogdan/blob/master/Frontend%20(4).pdf)
 
 ### TECHNOLOGIES
 - **Frontend**: HTML5, CSS3, JavaScript, ES6+, Gulp, SASS / SCSS, NPM
-- **Framework**: React, Bootstrap
+- **Framework**: React (Redux, Styled-components, css modules), Bootstrap
 - **UX tools**: Figma, Adobe Photoshop, Avocode
 - **VCS**: GitHub, GitLab
 - **IDE**: VSCode
@@ -48,7 +50,7 @@
 **In all projects README.md with instructions**
 
 #### HTML & CSS & JS Layout coding  
-**Projects sort from oldest to new**
+**Projects sorted from oldest to new**
 - :rage2: HTML & CSS First layout from PSD with animations
 {[code](https://github.com/master-bogdan/first-work) || [demo](https://master-bogdan.github.io/first-work/)}
 - :alien: HTML & CSS Dude layout from PSD
