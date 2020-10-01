@@ -1,7 +1,11 @@
 :octocat: WELCOME TO MY GITHUB PAGE 
 ==================
-
-## I AM LOOKING FOR TRAINEE/JUNIOR FRONTEND DEVELOPER JOB
+### WORKING EXPIRIENCE
+Company: **frontback.org**  
+**Period:** from 4.09.2020 till now  
+**Position:** Junior ReactJS developer  
+**Tasks:** Develop ReactJS websites  
+**Technologies:** Next.js, styled-components, MaterialUI, ReactJS  
 
 ### FINISHED COURSES
 - **Itgid.info** 
