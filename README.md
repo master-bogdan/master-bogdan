@@ -61,8 +61,6 @@ Company: **frontback.org**
 {[code](https://github.com/master-bogdan/second-work) || [demo](https://master-bogdan.github.io/second-work/)}
 - :beginner: HTML & CSS Appolo layout from PSD with Boostrap
 {[code](https://github.com/master-bogdan/apollo-bootstrap-project) || [demo](https://master-bogdan.github.io/apollo-bootstrap-project/)}
-- :postal_horn: HTML & CSS Google style popup 
-{[code](https://github.com/master-bogdan/html-css-popup) || [demo](https://master-bogdan.github.io/html-css-popup/)}
 - :ok_woman: HTML & CSS CV page with pdf download function (real project)
 {[code](https://github.com/master-bogdan/Irina-resume) || [demo](https://master-bogdan.github.io/Irina-resume/)}
 - :mortar_board: HTML & CSS landingpage layout from PSD
