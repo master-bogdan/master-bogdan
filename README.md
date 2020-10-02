@@ -55,7 +55,7 @@ Company: **frontback.org**
 
 #### HTML & CSS & JS Layout coding  
 **Projects sorted from oldest to new**
-- :rage2: HTML & CSS First layout from PSD with animations
+- :rage2: HTML & CSS My first HTML coding from PSD with animations
 {[code](https://github.com/master-bogdan/first-work) || [demo](https://master-bogdan.github.io/first-work/)}
 - :alien: HTML & CSS Dude layout from PSD
 {[code](https://github.com/master-bogdan/second-work) || [demo](https://master-bogdan.github.io/second-work/)}
@@ -77,6 +77,10 @@ Company: **frontback.org**
 {[code](https://github.com/master-bogdan/pengi-project) || [demo](https://master-bogdan.github.io/pengi-project/)}
 - Real project for client (in process)
 {[code](https://github.com/master-bogdan/nastya-project) || [demo](https://master-bogdan.github.io/nastya-project/)}
+- Article preview component (HTML5 & CSS3 coding)
+{[code](https://github.com/master-bogdan/fm-article-preview-component) || [demo](https://master-bogdan.github.io/fm-article-preview-component/)}
+- Social dashboard with theme switcher (HTML5 & CSS3 & JS coding)
+{[code](https://github.com/master-bogdan/fm-dashboard) || [demo](https://master-bogdan.github.io/fm-dashboard/)}
 
 #### Vanilla JS apps
 - :sunny: :umbrella: :cloud: Weather app 
