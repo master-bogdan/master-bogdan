@@ -3,7 +3,7 @@
 ### WORKING EXPIRIENCE
 Company: **frontback.org**  
 **Period:** from 4.09.2020 till now  
-**Position:** Junior ReactJS developer  
+**Position:** Junior ReactJS developer (PART TIME)
 **Tasks:** Develop ReactJS websites  
 **Technologies:** Next.js, styled-components, MaterialUI, ReactJS  
 
@@ -13,6 +13,7 @@ Company: **frontback.org**
   - JavaScript OOP
   - React Lite Level
   - PHP
+  - Node.js (part1)
 - **Freecodecamp** 
   - Responsive web design
   - JavaScript algorithms and data structures
@@ -40,10 +41,8 @@ Company: **frontback.org**
 
 ### OTHER 
 **Technologies which I learn now**
-- PHP
 - Data Bases (MySQL, MariaDB)
 - Node.js
-- React-redux
 
 **Technologies where I have some knowlegies**
 - CMS: WordPress
