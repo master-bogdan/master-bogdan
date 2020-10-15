@@ -2,9 +2,9 @@
 ==================
 ### WORKING EXPIRIENCE
 Company: **frontback.org**  
-**Period:** from 4.09.2020 till now  
-**Position:** Junior ReactJS developer (PART TIME)
-**Tasks:** Develop ReactJS websites  
+**Period:** from 4.09.2020 till 1.10.2020 (Project work)  
+**Position:** Junior ReactJS developer  
+**Tasks:** Develop websites uses ReactJS with Next.js  
 **Technologies:** Next.js, styled-components, MaterialUI, ReactJS  
 
 ### FINISHED COURSES
@@ -29,11 +29,12 @@ Company: **frontback.org**
   - ReactJS practical course (Hooks, Classes, Redux) (Vladilen Minin)
   
 >Here you can find my cerfiticates - [CERTIFICATIONS](https://github.com/master-bogdan/master-bogdan)    
->Here you can find my CV - [CV](https://github.com/master-bogdan/master-bogdan/blob/master/Frontend%20(4).pdf)
+>Here you can find my CV - [CV](https://github.com/master-bogdan/master-bogdan/blob/master/Frontend.pdf)
 
 ### TECHNOLOGIES
 - **Frontend**: HTML5, CSS3, JavaScript, ES6+, Gulp, SASS / SCSS, NPM
 - **Framework**: React (Redux, Styled-components, css modules), Bootstrap
+- **Backend**: Node.js, Express
 - **UX tools**: Figma, Adobe Photoshop, Avocode
 - **VCS**: GitHub, GitLab
 - **IDE**: VSCode
