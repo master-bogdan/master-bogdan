@@ -33,9 +33,9 @@ Company: **frontback.org**
 >Here you can find my CV - [CV](https://github.com/master-bogdan/master-bogdan/blob/master/Frontend.pdf)
 
 ### TECHNOLOGIES
-- **Frontend**: HTML5, CSS3, JavaScript, ES6+, Gulp, SASS / SCSS, NPM
-- **Framework**: React (Redux, Styled-components, css modules), Bootstrap
-- **Backend**: Node.js, Express
+- **Frontend**: HTML5, CSS3 (includes SASS / SCSS) , JavaScript (ES6+), Bootstrap 4
+- **Framework**: React (react-redux, styled-components, css modules) 
+- **Backend**: Node.js, Express, PHP (basic)
 - **UX tools**: Figma, Adobe Photoshop, Avocode
 - **VCS**: GitHub, GitLab
 - **IDE**: VSCode
