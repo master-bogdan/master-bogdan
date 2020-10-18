@@ -22,7 +22,7 @@ Company: **frontback.org**
   - ReactJS practical course (Hooks, Classes, Redux) (Vladilen Minin)
   
 >Here you can find my cerfiticates - [CERTIFICATIONS](https://github.com/master-bogdan/master-bogdan)    
->Here you can find my CV - [CV](https://github.com/master-bogdan/master-bogdan/blob/master/Frontend.pdf)
+>Here you can find my CV - [CV](https://github.com/master-bogdan/master-bogdan/blob/master/My%20CV.pdf)
 
 ### TECHNOLOGIES
 - **Frontend**: HTML5, CSS3 (includes SASS / SCSS) , JavaScript (ES6+), Bootstrap 4
