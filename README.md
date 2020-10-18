@@ -5,7 +5,7 @@
 Company: **frontback.org**  
 **Period:** from 4.09.2020 till 1.10.2020 (Project work)  
 **Position:** Junior ReactJS developer  
-**Tasks:** Develop websites uses ReactJS with Next.js  
+**Tasks:** Develop websites with ReactJS and Next.js  
 **Technologies:** Next.js, styled-components, MaterialUI, ReactJS  
 
 ### FINISHED COURSES
@@ -15,14 +15,6 @@ Company: **frontback.org**
   - React Lite Level
   - PHP
   - Node.js (part1)
-- **Freecodecamp** 
-  - Responsive web design
-  - JavaScript algorithms and data structures
-  - Frontend libraries
-- **Codecademy**
-  - HTML5
-  - CSS3
-  - Javascript / React
 - **Udemy**
   - Web developer 2020 (HTML5, CSS3, Basic JS) (Ivan Petrichenko)
   - Wordpress theme developing (Ivan Petrichenko)
@@ -52,10 +44,32 @@ Company: **frontback.org**
 
 ## MY PORTFOLIO
 
-**In all projects README.md with instructions**
+### Commercial projects  
+**Landing page for Photographer**
+Technologies used:
+- HTML5, CSS3 (SCSS), Native JS, Gulp, Webpack  
+Task: Make adaptive landing page  
+**[[CODE](https://github.com/master-bogdan/nastya-project) || [DEMO](https://master-bogdan.github.io/nastya-project/)]**  
+
+**pay.kuna.io**
+Technologies used:  
+- React(styled-components, i18)  
+Task: Make website transition to React.js, with mobile adaptation. Make translate function for 3 languages.    
+**[code for this project I can show only by video call || [LINK TO WEBSITE](https://pay.kuna.io/uk)]**  
+
+**xreserve.fund**
+Technologies used:  
+- React(styled-components, i18)  
+Task: Make website transition to React.js, with mobile adaptation. Make translate function for 3 languages  
+**[code for this project I can show only by video call || [LINK TO WEBSITE](https://xreserve.fund/uk)]**
+
+
+
+## My training or PET projects
+***In all projects README.md with instructions**  
+****Projects sorted from oldest to new**
 
 #### HTML & CSS & JS Layout coding  
-**Projects sorted from oldest to new**
 - :rage2: HTML & CSS My first HTML coding from PSD with animations
 {[code](https://github.com/master-bogdan/first-work) || [demo](https://master-bogdan.github.io/first-work/)}
 - :alien: HTML & CSS Dude layout from PSD
@@ -76,8 +90,6 @@ Company: **frontback.org**
 {[code](https://github.com/master-bogdan/brandly-shop) || [demo](https://master-bogdan.github.io/brandly-shop/)}
 - :cyclone: HTML5 & CSS3 & JS coding from PSD Pengi
 {[code](https://github.com/master-bogdan/pengi-project) || [demo](https://master-bogdan.github.io/pengi-project/)}
-- Real project for client (in process)
-{[code](https://github.com/master-bogdan/nastya-project) || [demo](https://master-bogdan.github.io/nastya-project/)}
 - Article preview component (HTML5 & CSS3 coding)
 {[code](https://github.com/master-bogdan/fm-article-preview-component) || [demo](https://master-bogdan.github.io/fm-article-preview-component/)}
 - Social dashboard with theme switcher (HTML5 & CSS3 & JS coding)
