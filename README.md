@@ -45,25 +45,17 @@ Company: **frontback.org**
 ## MY PORTFOLIO
 
 ### Commercial projects  
-**Landing page for Photographer**  
-**[[CODE](https://github.com/master-bogdan/nastya-project) || [DEMO](https://master-bogdan.github.io/nastya-project/)]**   
-Task: Make adaptive landing page 
-Technologies used:
-- HTML5, CSS3 (SCSS), Native JS, Gulp, Webpack   
- 
- 
+**Landing page for Photographer [[CODE](https://github.com/master-bogdan/nastya-project) || [DEMO](https://master-bogdan.github.io/nastya-project/)]**     
+- **Task:** Make adaptive landing page 
+- **Technologies used:** HTML5, CSS3 (SCSS), Native JS, Gulp, Webpack   
 
-**pay.kuna.io**  
-**[code for this project I can show only by video call || [LINK TO WEBSITE](https://pay.kuna.io/uk)]**  
-Task: Make website transition to React.js, with mobile adaptation. Make translate function for 3 languages.
-Technologies used:  
-- React(styled-components, i18)    
+**pay.kuna.io [code for this project I can show only by video call || [LINK TO WEBSITE](https://pay.kuna.io/uk)]**  
+- **Task:** Make website transition to React.js, with mobile adaptation. Make translate function for 3 languages.
+- **Technologies used:** React(styled-components, i18)    
 
-**xreserve.fund**  
-**[code for this project I can show only by video call || [LINK TO WEBSITE](https://xreserve.fund/uk)]**  
-Task: Make website transition to React.js, with mobile adaptation. Make translate function for 3 languages
-Technologies used:  
-- React(styled-components, i18)    
+**xreserve.fund [code for this project I can show only by video call || [LINK TO WEBSITE](https://xreserve.fund/uk)]**  
+- **Task:** Make website transition to React.js, with mobile adaptation. Make translate function for 3 languages
+- **Technologies used:** React(styled-components, i18)    
 
 ## My training or PET projects
 ***In all projects README.md with instructions**  
