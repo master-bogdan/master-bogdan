@@ -2,6 +2,10 @@
 ==================  
 ## I AM LOOKING FOR JUNIOR FRONTEND / REACT / FULLSTACK DEVELOPER JOB  
 ### WORKING EXPIRIENCE
+**Freelance**  
+**Period:** from 8.08.2020 till now  
+**Tasks:** Develop websites with ReactJS, HTML coding, fix styles    
+  
 Company: **frontback.org**  
 **Period:** from 4.09.2020 till 1.10.2020 (Project work)  
 **Position:** Junior ReactJS developer  
