@@ -60,6 +60,11 @@ Company: **frontback.org**
 **xreserve.fund [code for this project I can show only by video call || [LINK TO WEBSITE](https://xreserve.fund/uk)]**  
 - **Task:** Make website transition to React.js, with mobile adaptation. Make translate function for 3 languages
 - **Technologies used:** React(styled-components, i18)    
+  
+**https://frontback.org/ [code for this project I can show only by video call || [LINK TO WEBSITE](https://frontback.org/)]**
+- **Task:** Make basic layout and components from Figma design
+- **Technologies used:** React(styled-components) 
+  
 
 ## My training or PET projects
 ***In all projects README.md with instructions**  
