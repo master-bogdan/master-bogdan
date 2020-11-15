@@ -30,7 +30,7 @@ Company: **frontback.org**
 
 ### TECHNOLOGIES
 - **Frontend**: HTML5, CSS3 (includes SASS / SCSS) , JavaScript (ES6+), Bootstrap 4
-- **Framework**: React (react-redux, styled-components, css modules) 
+- **Framework**: React (react-redux, styled-components, css modules), NextJS   
 - **Backend**: Node.js, Express, PHP (basic)
 - **UX tools**: Figma, Adobe Photoshop, Avocode
 - **VCS**: GitHub, GitLab
@@ -119,4 +119,5 @@ Company: **frontback.org**
 - :dart: React memory game
 [[CODE](https://github.com/master-bogdan/react-memory-pair-game/tree/master) || [DEMO](https://master-bogdan.github.io/react-memory-pair-game/)]
 - :earth_africa: React NASA app (IN PROCESS)
-[[CODE](https://github.com/master-bogdan/nasa-app/tree/master) || [DEMO](https://master-bogdan.github.io/nasa-app/)]
+[[CODE](https://github.com/master-bogdan/nasa-app/tree/master) || [DEMO](https://master-bogdan.github.io/nasa-app/)]  
+- Fullstack CRUD (Create, Read, Update, Delete) app [[CODE](https://github.com/master-bogdan/crud-fullstack)]   
