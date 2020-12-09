@@ -64,7 +64,10 @@ Company: **frontback.org**
 **https://frontback.org/ [code for this project I can show only by video call || [LINK TO WEBSITE](https://frontback.org/)]**
 - **Task:** Make basic layout and components from Figma design
 - **Technologies used:** React(styled-components), NextJS 
-  
+
+**HTML/CSS coding dashboard [[CODE](https://github.com/master-bogdan/crew-only-dashboard) || [LINK TO DEMO](https://master-bogdan.github.io/crew-only-dashboard/)]**
+- **Task:** HTML / CSS coding with Bootstrap, mobile adaptation
+- **Technologies used:** HTML5, CSS3, PUG, SCSS, Gulp, Bootstrap  
 
 ## My training or PET projects
 ***In all projects README.md with instructions**  
