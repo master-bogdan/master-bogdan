@@ -55,15 +55,15 @@ Company: **frontback.org**
 
 **pay.kuna.io [code for this project I can show only by video call || [LINK TO WEBSITE](https://pay.kuna.io/uk)]**  
 - **Task:** Make website transition to React.js, with mobile adaptation. Make translate function for 3 languages.
-- **Technologies used:** React(styled-components, i18)    
+- **Technologies used:** React(styled-components, i18), NextJS    
 
 **xreserve.fund [code for this project I can show only by video call || [LINK TO WEBSITE](https://xreserve.fund/uk)]**  
 - **Task:** Make website transition to React.js, with mobile adaptation. Make translate function for 3 languages
-- **Technologies used:** React(styled-components, i18)    
+- **Technologies used:** React(styled-components, i18), NextJS   
   
 **https://frontback.org/ [code for this project I can show only by video call || [LINK TO WEBSITE](https://frontback.org/)]**
 - **Task:** Make basic layout and components from Figma design
-- **Technologies used:** React(styled-components) 
+- **Technologies used:** React(styled-components), NextJS 
   
 
 ## My training or PET projects
