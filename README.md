@@ -1,8 +1,8 @@
 :octocat: WELCOME TO MY GITHUB PAGE 
 ==================  
-## I AM LOOKING FOR JUNIOR FRONTEND / REACT / FULLSTACK DEVELOPER JOB  
-### WORKING EXPERIENCE
-**Freelance**[freelancehunt.com](https://freelancehunt.com/freelancer/master-bogdan.html)  
+## :fast_forward: I AM LOOKING FOR JUNIOR FRONTEND / REACT / FULLSTACK DEVELOPER JOB :warning:    
+### :construction_worker: WORKING EXPERIENCE
+**Freelance** [freelancehunt.com](https://freelancehunt.com/freelancer/master-bogdan.html)  
 **Period:** from 8.08.2020 till now  
 **Tasks:** Develop websites with ReactJS, HTML coding, fix styles    
   
@@ -12,7 +12,7 @@ Company: **frontback.org**
 **Tasks:** Develop websites with ReactJS and Next.js  
 **Technologies:** Next.js, styled-components, MaterialUI, ReactJS  
 
-### FINISHED COURSES
+### :mortar_board: FINISHED COURSES
 - **Itgid.info** 
   - JavaScript 2.0 
   - JavaScript OOP
@@ -94,9 +94,9 @@ Company: **frontback.org**
 {[code](https://github.com/master-bogdan/brandly-shop) || [demo](https://master-bogdan.github.io/brandly-shop/)}
 - :cyclone: HTML5 & CSS3 & JS coding from PSD Pengi
 {[code](https://github.com/master-bogdan/pengi-project) || [demo](https://master-bogdan.github.io/pengi-project/)}
-- Article preview component (HTML5 & CSS3 coding)
+- :ticket: Article preview component (HTML5 & CSS3 coding)
 {[code](https://github.com/master-bogdan/fm-article-preview-component) || [demo](https://master-bogdan.github.io/fm-article-preview-component/)}
-- Social dashboard with theme switcher (HTML5 & CSS3 & JS coding)
+- :city_sunset: Social dashboard with theme switcher (HTML5 & CSS3 & JS coding)
 {[code](https://github.com/master-bogdan/fm-dashboard) || [demo](https://master-bogdan.github.io/fm-dashboard/)}
 
 #### Vanilla JS apps
@@ -123,4 +123,5 @@ Company: **frontback.org**
 [[CODE](https://github.com/master-bogdan/react-memory-pair-game/tree/master) || [DEMO](https://master-bogdan.github.io/react-memory-pair-game/)]
 - :earth_africa: React NASA app (IN PROCESS)
 [[CODE](https://github.com/master-bogdan/nasa-app/tree/master) || [DEMO](https://master-bogdan.github.io/nasa-app/)]  
-- Fullstack CRUD (Create, Read, Update, Delete) app [[CODE](https://github.com/master-bogdan/crud-fullstack)]   
+- :godmode: Fullstack CRUD (Create, Read, Update, Delete) app [[CODE](https://github.com/master-bogdan/crud-fullstack)]  
+- :no_entry_sign: React Firebase Auth [[CODE](https://github.com/master-bogdan/react-auth-firebase)]   
