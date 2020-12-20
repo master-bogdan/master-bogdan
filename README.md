@@ -1,7 +1,7 @@
 :octocat: WELCOME TO MY GITHUB PAGE 
 ==================  
 ## I AM LOOKING FOR JUNIOR FRONTEND / REACT / FULLSTACK DEVELOPER JOB  
-### WORKING EXPIRIENCE
+### WORKING EXPERIENCE
 **Freelance**  
 **Period:** from 8.08.2020 till now  
 **Tasks:** Develop websites with ReactJS, HTML coding, fix styles    
