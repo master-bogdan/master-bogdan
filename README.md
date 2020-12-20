@@ -2,7 +2,7 @@
 ==================  
 ## I AM LOOKING FOR JUNIOR FRONTEND / REACT / FULLSTACK DEVELOPER JOB  
 ### WORKING EXPERIENCE
-**Freelance**  
+**Freelance**[freelancehunt.com](https://freelancehunt.com/freelancer/master-bogdan.html)  
 **Period:** from 8.08.2020 till now  
 **Tasks:** Develop websites with ReactJS, HTML coding, fix styles    
   
