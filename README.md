@@ -4,13 +4,21 @@
 ### :construction_worker: WORKING EXPERIENCE
 **Freelance** [freelancehunt.com](https://freelancehunt.com/freelancer/master-bogdan.html)  
 **Period:** from 8.08.2020 till now  
-**Tasks:** Develop websites with ReactJS, HTML coding, fix styles    
+**Tasks:** Develop websites with ReactJS (NextJS), HTML coding, fix styles    
   
 Company: **frontback.org**  
-**Period:** from 4.09.2020 till 1.10.2020 (Project work)  
+**Period:** from September 2020 till now (Project work) 
 **Position:** Junior ReactJS developer  
 **Tasks:** Develop websites with ReactJS and Next.js  
-**Technologies:** Next.js, styled-components, MaterialUI, ReactJS  
+**Technologies:** Next.js, styled-components, MaterialUI, ReactJS, TypeScript, Firebase  
+
+Company: **hackernoon.com**  
+**Period:** from November 2020 till now (Project work)  
+**Position:** ReactJS (NextJS) developer  
+**Tasks:**   
+- Develop inner service to convert markdown text to React components  
+- Develop inner service for email auto answer  
+**Technologies:** Next.js (API, MDX), ReactJS, antd, NodeJS  
 
 ### :mortar_board: FINISHED COURSES
 - **Itgid.info** 
