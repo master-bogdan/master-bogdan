@@ -38,8 +38,8 @@ Company: **hackernoon.com**
 >Here you can find my CV - [CV](https://github.com/master-bogdan/master-bogdan/blob/master/Bogdan_Shchavinskyi_frontend_react_js_CV.pdf)
 
 ### TECHNOLOGIES
-- **Frontend**: HTML5, CSS3 (includes SASS / SCSS) , JavaScript (ES6+), Bootstrap 4
-- **Framework**: React (react-redux, styled-components, css modules), NextJS   
+- **Frontend**: HTML5, CSS3 (includes SASS / SCSS) , JavaScript (ES6+)
+- **Framework**: ReactJS (react-redux, styled-components, Hooks, MaterialUI, TypeScript, Firebase), NextJS    
 - **Backend**: Node.js, Express, PHP (basic), MySQL, MongoDB, Firebase
 - **UX tools**: Figma, Adobe Photoshop, Avocode
 - **VCS**: GitHub, GitLab
