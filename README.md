@@ -7,7 +7,7 @@
 **Tasks:** Develop websites with ReactJS (NextJS), HTML coding, fix styles    
   
 Company: **frontback.org**  
-**Period:** from September 2020 till now (Project work) 
+**Period:** from September 2020 till now (Project work)  
 **Position:** Junior ReactJS developer  
 **Tasks:** Develop websites with ReactJS and Next.js  
 **Technologies:** Next.js, styled-components, MaterialUI, ReactJS, TypeScript, Firebase  
@@ -39,7 +39,7 @@ Company: **hackernoon.com**
 ### TECHNOLOGIES
 - **Frontend**: HTML5, CSS3 (includes SASS / SCSS) , JavaScript (ES6+), Bootstrap 4
 - **Framework**: React (react-redux, styled-components, css modules), NextJS   
-- **Backend**: Node.js, Express, PHP (basic)
+- **Backend**: Node.js, Express, PHP (basic), MySQL, MongoDB, Firebase
 - **UX tools**: Figma, Adobe Photoshop, Avocode
 - **VCS**: GitHub, GitLab
 - **IDE**: VSCode
@@ -47,7 +47,7 @@ Company: **hackernoon.com**
 
 ### OTHER 
 **Technologies which I learn now**
-- Data Bases (MySQL, MariaDB)
+- Firebase
 - Node.js
 
 **Technologies where I have some knowlegies**
