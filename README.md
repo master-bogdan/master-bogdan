@@ -17,7 +17,8 @@ Company: **hackernoon.com**
 **Position:** ReactJS (NextJS) developer  
 **Tasks:**   
 - Develop inner service to convert markdown text to React components  
-- Develop inner service for email auto answer    
+- Develop inner service for email auto answer   
+
 **Technologies:** Next.js (API, MDX), ReactJS, antd, NodeJS  
 
 ### :mortar_board: FINISHED COURSES
