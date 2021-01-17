@@ -1,6 +1,6 @@
 :octocat: WELCOME TO MY GITHUB PAGE 
 ==================  
-## :fast_forward: I AM LOOKING FOR JUNIOR FRONTEND / REACT / FULLSTACK DEVELOPER JOB :warning:    
+## :fast_forward: I AM LOOKING FOR FRONTEND / REACT / FULLSTACK DEVELOPER JOB :warning:    
 ### :construction_worker: WORKING EXPERIENCE
 **Freelance** [freelancehunt.com](https://freelancehunt.com/freelancer/master-bogdan.html)  
 **Period:** from 8.08.2020 till now  
