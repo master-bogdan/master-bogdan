@@ -3,17 +3,17 @@
 ## :fast_forward: I AM LOOKING FOR FRONTEND / REACT / FULLSTACK DEVELOPER JOB :warning:    
 ### :construction_worker: WORKING EXPERIENCE
 **Freelance** [freelancehunt.com](https://freelancehunt.com/freelancer/master-bogdan.html)  
-**Period:** from 8.08.2020 till now  
+**Period:** from August 2020 - now  
 **Tasks:** Develop websites with ReactJS (NextJS), HTML coding, fix styles    
   
 Company: **frontback.org**  
-**Period:** from September 2020 till now (Project work)  
+**Period:** from September 2020 - now (Project work)  
 **Position:** Junior ReactJS developer  
 **Tasks:** Develop websites with ReactJS and Next.js  
 **Technologies:** Next.js, styled-components, MaterialUI, ReactJS, TypeScript, Firebase  
 
 Company: **hackernoon.com**  
-**Period:** from November 2020 till now (Project work)  
+**Period:** from November 2020 - now (Project work)  
 **Position:** ReactJS (NextJS) developer  
 **Tasks:**   
 - Develop inner service to convert markdown text to React components  
@@ -33,6 +33,7 @@ Company: **hackernoon.com**
   - Wordpress theme developing (Ivan Petrichenko)
   - Full JavaScript & React/Redux course from beginner level (Ivan Petrichenko)
   - ReactJS practical course (Hooks, Classes, Redux) (Vladilen Minin)
+  - NodeJS practical course (Express, MongoDB) (Vladilen Minin)  
   
 >Here you can find my cerfiticates - [CERTIFICATIONS](https://github.com/master-bogdan/master-bogdan)    
 >Here you can find my CV - [CV](https://github.com/master-bogdan/master-bogdan/blob/master/Bogdan_Shchavinskyi_frontend_react_js_CV.pdf)
