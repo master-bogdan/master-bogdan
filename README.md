@@ -25,22 +25,25 @@ Company: **hackernoon.com**
 - **Itgid.info** 
   - JavaScript 2.0 
   - JavaScript OOP
+  - JavaScript Array Methods
   - React Lite Level
   - PHP
   - Node.js (part1)
+  - Node.js internet magazine
 - **Udemy**
   - Web developer 2020 (HTML5, CSS3, Basic JS) (Ivan Petrichenko)
-  - Wordpress theme developing (Ivan Petrichenko)
   - Full JavaScript & React/Redux course from beginner level (Ivan Petrichenko)
   - ReactJS practical course (Hooks, Classes, Redux) (Vladilen Minin)
   - NodeJS practical course (Express, MongoDB) (Vladilen Minin)  
+
+...and hundreds of hours of practice, watching tutorials, reading documentation
   
 >Here you can find my cerfiticates - [CERTIFICATIONS](https://github.com/master-bogdan/master-bogdan)    
 >Here you can find my CV - [CV](https://github.com/master-bogdan/master-bogdan/blob/master/Bogdan_Shchavinskyi_frontend_react_js_CV.pdf)
 
 ### TECHNOLOGIES
 - **Frontend**: HTML5, CSS3 (includes SASS / SCSS) , JavaScript (ES6+)
-- **Framework**: ReactJS (react-redux, styled-components, Hooks, MaterialUI, TypeScript, Firebase), NextJS    
+- **Framework**: ReactJS (react-redux, styled-components, Hooks, MaterialUI, TypeScript), NextJS    
 - **Backend**: Node.js, Express, PHP (basic), MySQL, MongoDB, Firebase
 - **UX tools**: Figma, Adobe Photoshop, Avocode
 - **VCS**: GitHub, GitLab
@@ -75,7 +78,7 @@ Company: **hackernoon.com**
 - **Task:** Make basic layout and components from Figma design
 - **Technologies used:** React(styled-components), NextJS 
 
-**HTML/CSS coding dashboard [[CODE](https://github.com/master-bogdan/crew-only-dashboard) || [LINK TO DEMO](https://master-bogdan.github.io/crew-only-dashboard/)]**
+**HTML/CSS/JS coding dashboard [[CODE](https://github.com/master-bogdan/crew-only-dashboard) || [LINK TO DEMO](https://master-bogdan.github.io/crew-only-dashboard/)]**
 - **Task:** HTML / CSS coding with Bootstrap, mobile adaptation
 - **Technologies used:** HTML5, CSS3, PUG, SCSS, Gulp, Bootstrap  
 
@@ -83,7 +86,7 @@ Company: **hackernoon.com**
 ***In all projects README.md with instructions**  
 ****Projects sorted from oldest to new**
 
-#### HTML & CSS & JS Layout coding  
+#### :fast_forward: HTML & CSS & JS Layout coding  
 - :rage2: HTML & CSS My first HTML coding from PSD with animations
 {[code](https://github.com/master-bogdan/first-work) || [demo](https://master-bogdan.github.io/first-work/)}
 - :alien: HTML & CSS Dude layout from PSD
@@ -109,7 +112,7 @@ Company: **hackernoon.com**
 - :city_sunset: Social dashboard with theme switcher (HTML5 & CSS3 & JS coding)
 {[code](https://github.com/master-bogdan/fm-dashboard) || [demo](https://master-bogdan.github.io/fm-dashboard/)}
 
-#### Vanilla JS apps
+#### :fast_forward: Vanilla JS apps
 - :sunny: :umbrella: :cloud: Weather app 
 [[code](https://github.com/master-bogdan/weather-app) || [demo](https://master-bogdan.github.io/weather-app/)]
 - :video_game: Tetris
@@ -123,10 +126,13 @@ Company: **hackernoon.com**
 - :closed_book: JS Quote Machine
 [[code](https://github.com/master-bogdan/js-quote-machine) || [demo](https://master-bogdan.github.io/js-quote-machine/)]
 - :scroll: ToDo list app 
-[[code](https://github.com/master-bogdan/js-todo-list) || [demo](https://master-bogdan.github.io/js-todo-list/)]
+[[code](https://github.com/master-bogdan/js-todo-list) || [demo](https://master-bogdan.github.io/js-todo-list/)]  
+  
+#### :fast_forward: Node.js apps  
+- :innocent: Timestamp microservice
+[[code](https://github.com/master-bogdan/timestamp-microservice) || [demo](https://shrouded-cove-70508.herokuapp.com/)]  
 
-
-#### React.js apps
+#### :fast_forward: React.js apps
 - :dolls: React friend app
 [[CODE](https://github.com/master-bogdan/react-friends-app/tree/master) || [DEMO](https://master-bogdan.github.io/react-friends-app/)]
 - :dart: React memory game
