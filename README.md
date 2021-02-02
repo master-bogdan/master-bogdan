@@ -41,7 +41,7 @@ Company: **hackernoon.com**
 >Here you can find my cerfiticates - [CERTIFICATIONS](https://github.com/master-bogdan/master-bogdan)    
 >Here you can find my CV - [CV](https://github.com/master-bogdan/master-bogdan/blob/master/Bogdan_Shchavinskyi_frontend_react_js_CV.pdf)
 
-### TECHNOLOGIES
+### :chart_with_upwards_trend: TECHNOLOGIES
 - **Frontend**: HTML5, CSS3 (includes SASS / SCSS) , JavaScript (ES6+)
 - **Framework**: ReactJS (react-redux, styled-components, Hooks, MaterialUI, TypeScript), NextJS    
 - **Backend**: Node.js, Express, PHP (basic), MySQL, MongoDB, Firebase
@@ -59,26 +59,26 @@ Company: **hackernoon.com**
 - CMS: WordPress
 - Basic Linux bash terminal
 
-## MY PORTFOLIO
+## :open_file_folder: MY PORTFOLIO
 
-### Commercial projects  
-**Landing page for Photographer [[CODE](https://github.com/master-bogdan/nastya-project) || [DEMO](https://master-bogdan.github.io/nastya-project/)]**     
+### :department_store: Commercial projects  
+**:camera: Landing page for Photographer [[CODE](https://github.com/master-bogdan/nastya-project) || [DEMO](https://master-bogdan.github.io/nastya-project/)]**     
 - **Task:** Make adaptive landing page 
 - **Technologies used:** HTML5, CSS3 (SCSS), Native JS, Gulp, Webpack   
 
-**pay.kuna.io [code for this project I can show only by video call || [LINK TO WEBSITE](https://pay.kuna.io/uk)]**  
+**:currency_exchange: pay.kuna.io [code for this project I can show only by video call || [LINK TO WEBSITE](https://pay.kuna.io/uk)]**  
 - **Task:** Make website transition to React.js, with mobile adaptation. Make translate function for 3 languages.
 - **Technologies used:** React(styled-components, i18), NextJS    
 
-**xreserve.fund [code for this project I can show only by video call || [LINK TO WEBSITE](https://xreserve.fund/uk)]**  
+**:currency_exchange: xreserve.fund [code for this project I can show only by video call || [LINK TO WEBSITE](https://xreserve.fund/uk)]**  
 - **Task:** Make website transition to React.js, with mobile adaptation. Make translate function for 3 languages
 - **Technologies used:** React(styled-components, i18), NextJS   
   
-**https://frontback.org/ [code for this project I can show only by video call || [LINK TO WEBSITE](https://frontback.org/)]**
+**:rocket: https://frontback.org/ [code for this project I can show only by video call || [LINK TO WEBSITE](https://frontback.org/)]**
 - **Task:** Make basic layout and components from Figma design
 - **Technologies used:** React(styled-components), NextJS 
 
-**HTML/CSS/JS coding dashboard [[CODE](https://github.com/master-bogdan/crew-only-dashboard) || [LINK TO DEMO](https://master-bogdan.github.io/crew-only-dashboard/)]**
+**:bar_chart: HTML/CSS/JS coding dashboard [[CODE](https://github.com/master-bogdan/crew-only-dashboard) || [LINK TO DEMO](https://master-bogdan.github.io/crew-only-dashboard/)]**
 - **Task:** HTML / CSS coding with Bootstrap, mobile adaptation
 - **Technologies used:** HTML5, CSS3, PUG, SCSS, Gulp, Bootstrap  
 
@@ -128,7 +128,8 @@ Company: **hackernoon.com**
 - :scroll: ToDo list app 
 [[code](https://github.com/master-bogdan/js-todo-list) || [demo](https://master-bogdan.github.io/js-todo-list/)]  
   
-#### :fast_forward: Node.js apps  
+#### :fast_forward: Node.js & Fullstack apps  
+- :godmode: Fullstack CRUD (Create, Read, Update, Delete) app [[CODE](https://github.com/master-bogdan/crud-fullstack)]  
 - :innocent: Timestamp microservice
 [[code](https://github.com/master-bogdan/timestamp-microservice) || [demo](https://shrouded-cove-70508.herokuapp.com/)]  
 
@@ -139,5 +140,4 @@ Company: **hackernoon.com**
 [[CODE](https://github.com/master-bogdan/react-memory-pair-game/tree/master) || [DEMO](https://master-bogdan.github.io/react-memory-pair-game/)]
 - :earth_africa: React NASA app (IN PROCESS)
 [[CODE](https://github.com/master-bogdan/nasa-app/tree/master) || [DEMO](https://master-bogdan.github.io/nasa-app/)]  
-- :godmode: Fullstack CRUD (Create, Read, Update, Delete) app [[CODE](https://github.com/master-bogdan/crud-fullstack)]  
 - :no_entry_sign: React Firebase Auth [[CODE](https://github.com/master-bogdan/react-auth-firebase)]   
