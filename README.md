@@ -86,32 +86,6 @@ Company: **hackernoon.com**
 ***In all projects README.md with instructions**  
 ****Projects sorted from oldest to new**
 
-#### :fast_forward: HTML & CSS & JS Layout coding  
-- :rage2: HTML & CSS My first HTML coding from PSD with animations
-{[code](https://github.com/master-bogdan/first-work) || [demo](https://master-bogdan.github.io/first-work/)}
-- :alien: HTML & CSS Dude layout from PSD
-{[code](https://github.com/master-bogdan/second-work) || [demo](https://master-bogdan.github.io/second-work/)}
-- :beginner: HTML & CSS Appolo layout from PSD with Boostrap
-{[code](https://github.com/master-bogdan/apollo-bootstrap-project) || [demo](https://master-bogdan.github.io/apollo-bootstrap-project/)}
-- :ok_woman: HTML & CSS CV page with pdf download function (real project)
-{[code](https://github.com/master-bogdan/Irina-resume) || [demo](https://master-bogdan.github.io/Irina-resume/)}
-- :mortar_board: HTML & CSS landingpage layout from PSD
-{[code](https://github.com/master-bogdan/landingpage-intensive) || [demo](https://master-bogdan.github.io/landingpage-intensive/)}
-- :oncoming_taxi: HTML & CSS Uber landingpage
-{[code](https://github.com/master-bogdan/uber-landingpage) || [demo](https://master-bogdan.github.io/uber-landingpage/)}
-- :coffee: HTML & CSS BeLatte layout from PSD
-{[code](https://github.com/master-bogdan/belatte) || [demo](https://master-bogdan.github.io/belatte/)}
-- :hamburger: :wine_glass: :coffee: HTML5 & CSS3 & JS Lambda page from PSD
-{[code](https://github.com/master-bogdan/lambda-project) || [demo](https://master-bogdan.github.io/lambda-project/)}
-- :dollar: HTML5 & CSS3 & JS - BRANDLY - SHOP
-{[code](https://github.com/master-bogdan/brandly-shop) || [demo](https://master-bogdan.github.io/brandly-shop/)}
-- :cyclone: HTML5 & CSS3 & JS coding from PSD Pengi
-{[code](https://github.com/master-bogdan/pengi-project) || [demo](https://master-bogdan.github.io/pengi-project/)}
-- :ticket: Article preview component (HTML5 & CSS3 coding)
-{[code](https://github.com/master-bogdan/fm-article-preview-component) || [demo](https://master-bogdan.github.io/fm-article-preview-component/)}
-- :city_sunset: Social dashboard with theme switcher (HTML5 & CSS3 & JS coding)
-{[code](https://github.com/master-bogdan/fm-dashboard) || [demo](https://master-bogdan.github.io/fm-dashboard/)}
-
 #### :fast_forward: Vanilla JS apps
 - :sunny: :umbrella: :cloud: Weather app 
 [[code](https://github.com/master-bogdan/weather-app) || [demo](https://master-bogdan.github.io/weather-app/)]
@@ -131,13 +105,29 @@ Company: **hackernoon.com**
 #### :fast_forward: Node.js & Fullstack apps  
 - :godmode: Fullstack CRUD (Create, Read, Update, Delete) app [[CODE](https://github.com/master-bogdan/crud-fullstack)]  
 - :innocent: Timestamp microservice
-[[code](https://github.com/master-bogdan/timestamp-microservice) || [demo](https://shrouded-cove-70508.herokuapp.com/)]  
+[[CODE](https://github.com/master-bogdan/timestamp-microservice) || [DEMO](https://shrouded-cove-70508.herokuapp.com/)]  
 
 #### :fast_forward: React.js apps
 - :dolls: React friend app
 [[CODE](https://github.com/master-bogdan/react-friends-app/tree/master) || [DEMO](https://master-bogdan.github.io/react-friends-app/)]
-- :dart: React memory game
+- :dart: React memory game (11.02.2020 refactored)
 [[CODE](https://github.com/master-bogdan/react-memory-pair-game/tree/master) || [DEMO](https://master-bogdan.github.io/react-memory-pair-game/)]
 - :earth_africa: React NASA app (IN PROCESS)
 [[CODE](https://github.com/master-bogdan/nasa-app/tree/master) || [DEMO](https://master-bogdan.github.io/nasa-app/)]  
 - :no_entry_sign: React Firebase Auth [[CODE](https://github.com/master-bogdan/react-auth-firebase)]   
+
+#### :fast_forward: HTML & CSS & JS Layout coding  
+- :beginner: HTML & CSS Appolo layout from PSD with Boostrap
+{[code](https://github.com/master-bogdan/apollo-bootstrap-project) || [demo](https://master-bogdan.github.io/apollo-bootstrap-project/)}
+- :ok_woman: HTML & CSS CV page with pdf download function (real project)
+{[code](https://github.com/master-bogdan/Irina-resume) || [demo](https://master-bogdan.github.io/Irina-resume/)}
+- :mortar_board: HTML & CSS landingpage layout from PSD
+{[code](https://github.com/master-bogdan/landingpage-intensive) || [demo](https://master-bogdan.github.io/landingpage-intensive/)}
+- :oncoming_taxi: HTML & CSS Uber landingpage
+{[code](https://github.com/master-bogdan/uber-landingpage) || [demo](https://master-bogdan.github.io/uber-landingpage/)}
+- :hamburger: :wine_glass: :coffee: HTML5 & CSS3 & JS Lambda page from PSD
+{[code](https://github.com/master-bogdan/lambda-project) || [demo](https://master-bogdan.github.io/lambda-project/)}
+- :ticket: Article preview component (HTML5 & CSS3 coding)
+{[code](https://github.com/master-bogdan/fm-article-preview-component) || [demo](https://master-bogdan.github.io/fm-article-preview-component/)}
+- :city_sunset: Social dashboard with theme switcher (HTML5 & CSS3 & JS coding)
+{[code](https://github.com/master-bogdan/fm-dashboard) || [demo](https://master-bogdan.github.io/fm-dashboard/)}
