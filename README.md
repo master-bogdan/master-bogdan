@@ -39,7 +39,7 @@ Company: **hackernoon.com**
 ...and hundreds of hours of practice, watching tutorials, reading documentation
   
 >Here you can find my cerfiticates - [CERTIFICATIONS](https://github.com/master-bogdan/master-bogdan)    
->Here you can find my CV - [CV](https://github.com/master-bogdan/master-bogdan/blob/master/Bogdan_Shchavinskyi_frontend_react_js_CV.pdf)
+>Here you can find my CV - [CV](https://github.com/master-bogdan/master-bogdan/blob/master/Bogdan_Shchavinskyi_frontend_react_fullstack_CV.pdf)
 
 ### :chart_with_upwards_trend: TECHNOLOGIES
 - **Frontend**: HTML5, CSS3 (includes SASS / SCSS) , JavaScript (ES6+)
