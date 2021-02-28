@@ -103,8 +103,8 @@ Company: **hackernoon.com**
 [[code](https://github.com/master-bogdan/js-todo-list) || [demo](https://master-bogdan.github.io/js-todo-list/)]  
   
 #### :fast_forward: Node.js & Fullstack apps  
-- :godmode: Fullstack CRUD (Create, Read, Update, Delete) app [[CODE](https://github.com/master-bogdan/crud-fullstack)]  
-- :innocent: Timestamp microservice
+- :godmode: Fullstack (MERN) CRUD (Create, Read, Update, Delete) app [[CODE](https://github.com/master-bogdan/crud-fullstack) || [DEMO](https://crud-fullstack.vercel.app/)]  
+- :innocent: Timestamp microservice (NodeJS app)
 [[CODE](https://github.com/master-bogdan/timestamp-microservice) || [DEMO](https://shrouded-cove-70508.herokuapp.com/)]  
 
 #### :fast_forward: React.js apps
