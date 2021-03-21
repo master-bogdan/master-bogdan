@@ -106,6 +106,7 @@ Company: **hackernoon.com**
 - :godmode: Fullstack (MERN) CRUD (Create, Read, Update, Delete) app [[CODE](https://github.com/master-bogdan/crud-fullstack) || [DEMO](https://crud-fullstack.vercel.app/)]  
 - :innocent: Timestamp microservice (NodeJS app)
 [[CODE](https://github.com/master-bogdan/timestamp-microservice) || [DEMO](https://shrouded-cove-70508.herokuapp.com/)]  
+- :space_invader: OLX NodeJS scraper [[CODE](https://github.com/master-bogdan/nodejs-olx-scraper)]  
 
 #### :fast_forward: React.js apps
 - :dolls: React friend app
