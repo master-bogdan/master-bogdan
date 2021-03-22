@@ -5,10 +5,16 @@
 **Freelance** [freelancehunt.com](https://freelancehunt.com/freelancer/master-bogdan.html)  
 **Period:** from August 2020 - now  
 **Tasks:** Develop websites with ReactJS (NextJS), HTML coding, fix styles    
+
+Company: **yougotit.agency**  
+**Period:** from December 2020 - now (part time)  
+**Position:** ReactJS, NextJS developer  
+**Tasks:** Develop from scratch React, NextJS landing pages, projects  
+**Technologies:** Next.js, styled-components, MaterialUI, ReactJS, react-select, react-redux, react-draft-wysiwyg  
   
 Company: **frontback.org**  
-**Period:** from September 2020 - now (Project work)  
-**Position:** Junior ReactJS developer  
+**Period:** from September 2020 - April 2021 (8 month)  
+**Position:** Junior ReactJS, Fullstack developer  
 **Tasks:** Develop websites with ReactJS and Next.js  
 **Technologies:** Next.js, styled-components, MaterialUI, ReactJS, TypeScript, Firebase  
 
