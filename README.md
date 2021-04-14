@@ -3,20 +3,24 @@
 ## :fast_forward: I AM LOOKING FOR REACT / FULLSTACK (REACT + NODEJS) DEVELOPER JOB :warning:    
 ### :construction_worker: WORKING EXPERIENCE
 **Freelance** [freelancehunt.com](https://freelancehunt.com/freelancer/master-bogdan.html)  
+**Period:** from August 2020 - now  
 **Tasks:** Develop websites with ReactJS (NextJS), HTML coding, fix styles    
 
 Company: **yougotit.agency**  
 **Position:** ReactJS, NextJS developer  
+**Period:** from December 2020 - now (part time)  
 **Tasks:** Develop from scratch React, NextJS landing pages, projects  
 **Technologies:** Next.js, styled-components, MaterialUI, ReactJS, react-select, react-redux, react-draft-wysiwyg  
   
 Company: **frontback.org**  
 **Position:** Junior ReactJS, Fullstack developer  
+**Period:** from September 2020 - April 2021 (8 month)  
 **Tasks:** Develop websites with ReactJS and Next.js  
 **Technologies:** Next.js, styled-components, MaterialUI, ReactJS, TypeScript, Firebase  
 
 Company: **hackernoon.com**  
 **Position:** ReactJS (NextJS) developer  
+**Period:** from November 2020 - February 2021 (4 month project work)  
 **Tasks:**   
 - Develop inner service to convert markdown text to React components  
 - Develop inner service for email auto answer   
