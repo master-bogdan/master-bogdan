@@ -44,8 +44,8 @@ Company: **hackernoon.com**
 
 ...and hundreds of hours of practice, watching tutorials, reading documentation
   
->Here you can find my cerfiticates - [CERTIFICATIONS](https://github.com/master-bogdan/master-bogdan)    
->Here you can find my CV - [CV](https://github.com/master-bogdan/master-bogdan/blob/master/Bogdan_Shchavinskyi_frontend_react_fullstack_CV.pdf)
+>Here you can find my cerfiticates => [CERTIFICATIONS](https://github.com/master-bogdan/master-bogdan)    
+>Here you can find my CV => [MY CV](https://github.com/master-bogdan/master-bogdan/blob/master/Bogdan_Shchavinskyi_frontend_react_fullstack_CV.pdf)  
 
 ### :chart_with_upwards_trend: TECHNOLOGIES
 - **Frontend**: HTML5, CSS3 (includes SASS / SCSS) , JavaScript (ES6+)
@@ -130,3 +130,5 @@ Company: **hackernoon.com**
 {[code](https://github.com/master-bogdan/fm-article-preview-component) || [demo](https://master-bogdan.github.io/fm-article-preview-component/)}
 - :city_sunset: Social dashboard with theme switcher (HTML5 & CSS3 & JS coding)
 {[code](https://github.com/master-bogdan/fm-dashboard) || [demo](https://master-bogdan.github.io/fm-dashboard/)}
+
+## Here you can find my CV with my contacts => [CV](https://github.com/master-bogdan/master-bogdan/blob/master/Bogdan_Shchavinskyi_frontend_react_fullstack_CV.pdf) 
