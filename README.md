@@ -60,6 +60,7 @@ Company: **hackernoon.com**
 **Technologies which I learn now**
 - Firebase
 - Node.js
+- NestJS
 
 **Technologies where I have some knowlegies**
 - CMS: WordPress
@@ -118,18 +119,11 @@ Company: **hackernoon.com**
 - :dolls: React friend app
 [[CODE](https://github.com/master-bogdan/react-friends-app/tree/master) || [DEMO](https://master-bogdan.github.io/react-friends-app/)]
 - :dart: React memory game (11.02.2020 refactored)
-[[CODE](https://github.com/master-bogdan/react-memory-pair-game/tree/master) || [DEMO](https://master-bogdan.github.io/react-memory-pair-game/)]
-- :earth_africa: React NASA app (IN PROCESS)  
-
+[[CODE](https://github.com/master-bogdan/react-memory-pair-game/tree/master) || [DEMO](https://master-bogdan.github.io/react-memory-pair-game/)]  
+  
 #### :fast_forward: HTML & CSS & JS Layout coding  
-- :beginner: HTML & CSS Appolo layout from PSD with Boostrap
-{[code](https://github.com/master-bogdan/apollo-bootstrap-project) || [demo](https://master-bogdan.github.io/apollo-bootstrap-project/)}
 - :ok_woman: HTML & CSS CV page with pdf download function (real project)
 {[code](https://github.com/master-bogdan/Irina-resume) || [demo](https://master-bogdan.github.io/Irina-resume/)}
-- :mortar_board: HTML & CSS landingpage layout from PSD
-{[code](https://github.com/master-bogdan/landingpage-intensive) || [demo](https://master-bogdan.github.io/landingpage-intensive/)}
-- :oncoming_taxi: HTML & CSS Uber landingpage
-{[code](https://github.com/master-bogdan/uber-landingpage) || [demo](https://master-bogdan.github.io/uber-landingpage/)}
 - :hamburger: :wine_glass: :coffee: HTML5 & CSS3 & JS Lambda page from PSD
 {[code](https://github.com/master-bogdan/lambda-project) || [demo](https://master-bogdan.github.io/lambda-project/)}
 - :ticket: Article preview component (HTML5 & CSS3 coding)
