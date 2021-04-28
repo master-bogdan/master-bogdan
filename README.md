@@ -1,17 +1,20 @@
 :octocat: WELCOME TO MY GITHUB PAGE 
-==================  
-## :fast_forward: I AM LOOKING FOR REACT / FULLSTACK (REACT + NODEJS) DEVELOPER JOB :warning:    
+==================    
 ### :construction_worker: WORKING EXPERIENCE
-**Freelance** [freelancehunt.com](https://freelancehunt.com/freelancer/master-bogdan.html)  
-**Period:** from August 2020 - now  
-**Tasks:** Develop websites with ReactJS (NextJS), HTML coding, fix styles    
+Company: **lineup.com.ua**  
+**Position:** React Frontend developer  
+**Period:** from May 2021 - now  
 
 Company: **yougotit.agency**  
 **Position:** ReactJS, NextJS developer  
 **Period:** from December 2020 - now (part time)  
 **Tasks:** Develop from scratch React, NextJS landing pages, projects  
 **Technologies:** Next.js, styled-components, MaterialUI, ReactJS, react-select, react-redux, react-draft-wysiwyg  
-  
+
+**Freelance** [freelancehunt.com](https://freelancehunt.com/freelancer/master-bogdan.html)  
+**Period:** from August 2020 - May 2021 (10 month)  
+**Tasks:** Develop websites with ReactJS (NextJS), HTML coding, fix styles    
+
 Company: **frontback.org**  
 **Position:** Junior ReactJS, Fullstack developer  
 **Period:** from September 2020 - April 2021 (8 month)  
@@ -26,26 +29,6 @@ Company: **hackernoon.com**
 - Develop inner service for email auto answer   
 
 **Technologies:** Next.js (API, MDX), ReactJS, antd, NodeJS  
-
-### :mortar_board: FINISHED COURSES
-- **Itgid.info** 
-  - JavaScript 2.0 
-  - JavaScript OOP
-  - JavaScript Array Methods
-  - React Lite Level
-  - PHP
-  - Node.js (part1)
-  - Node.js internet magazine
-- **Udemy**
-  - Web developer 2020 (HTML5, CSS3, Basic JS) (Ivan Petrichenko)
-  - Full JavaScript & React/Redux course from beginner level (Ivan Petrichenko)
-  - ReactJS practical course (Hooks, Classes, Redux) (Vladilen Minin)
-  - NodeJS practical course (Express, MongoDB) (Vladilen Minin)  
-
-...and hundreds of hours of practice, watching tutorials, reading documentation
-  
->Here you can find my cerfiticates => [CERTIFICATIONS](https://github.com/master-bogdan/master-bogdan)    
->Here you can find my CV => [MY CV](https://github.com/master-bogdan/master-bogdan/blob/master/Bogdan_Shchavinskyi_frontend_react_fullstack_CV.pdf)  
 
 ### :chart_with_upwards_trend: TECHNOLOGIES
 - **Frontend**: HTML5, CSS3 (includes SASS / SCSS) , JavaScript (ES6+)
@@ -130,5 +113,3 @@ Company: **hackernoon.com**
 {[code](https://github.com/master-bogdan/fm-article-preview-component) || [demo](https://master-bogdan.github.io/fm-article-preview-component/)}
 - :city_sunset: Social dashboard with theme switcher (HTML5 & CSS3 & JS coding)
 {[code](https://github.com/master-bogdan/fm-dashboard) || [demo](https://master-bogdan.github.io/fm-dashboard/)}
-
-## Here you can find my CV with my contacts => [CV](https://github.com/master-bogdan/master-bogdan/blob/master/Bogdan_Shchavinskyi_frontend_react_fullstack_CV.pdf) 
