@@ -4,30 +4,29 @@
 Company: **lineup.com.ua**  
 **Position:** React Frontend developer  
 **Period:** from May 2021 - now  
+**Technologies:** ReactJS, TypeScript, Firebase, scss modules, react-bootstrap, react-redux  
+
+**Freelance** freelancehunt.com - [link to my profile](https://freelancehunt.com/freelancer/master-bogdan.html)  
+**Tasks:** Develop websites with ReactJS (NextJS), HTML coding, fix styles  
 
 Company: **yougotit.agency**  
 **Position:** ReactJS, NextJS developer  
 **Period:** from December 2020 - May 2021 (part time)  
-**Tasks:** Develop from scratch React, NextJS landing pages, projects  
+**Tasks:** Develop from scratch React dashboard SPA, React modules from ongoing projects, NextJS landing pages   
 **Technologies:** Next.js, styled-components, MaterialUI, ReactJS, react-select, react-redux, react-draft-wysiwyg  
-
-**Freelance** [freelancehunt.com](https://freelancehunt.com/freelancer/master-bogdan.html)  
-**Period:** from August 2020 - May 2021 (10 month)  
-**Tasks:** Develop websites with ReactJS (NextJS), HTML coding, fix styles    
 
 Company: **frontback.org**  
 **Position:** Junior ReactJS, Fullstack developer  
 **Period:** from September 2020 - April 2021 (8 month)  
 **Tasks:** Develop websites with ReactJS and Next.js  
-**Technologies:** Next.js, styled-components, MaterialUI, ReactJS, TypeScript, Firebase  
+**Technologies:** React, Next.js, styled-components, MaterialUI, ReactJS, TypeScript, Firebase, react-redux, i18next, NodeJS  
 
 Company: **hackernoon.com**  
 **Position:** ReactJS (NextJS) developer  
 **Period:** from November 2020 - February 2021 (4 month project work)  
 **Tasks:**   
 - Develop inner service to convert markdown text to React components  
-- Develop inner service for email auto answer   
-
+- Develop inner service for email auto answer  
 **Technologies:** Next.js (API, MDX), ReactJS, antd, NodeJS  
 
 ### :chart_with_upwards_trend: TECHNOLOGIES
