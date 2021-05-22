@@ -27,6 +27,7 @@ Company: **hackernoon.com**
 **Tasks:**   
 - Develop inner service to convert markdown text to React components  
 - Develop inner service for email auto answer  
+
 **Technologies:** Next.js (API, MDX), ReactJS, antd, NodeJS  
 
 ### :chart_with_upwards_trend: TECHNOLOGIES
