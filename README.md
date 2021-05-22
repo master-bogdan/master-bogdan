@@ -12,7 +12,7 @@ Company: **lineup.com.ua**
 Company: **yougotit.agency**  
 **Position:** ReactJS, NextJS developer  
 **Period:** from December 2020 - May 2021 (part time)  
-**Tasks:** Develop from scratch React dashboard SPA, React modules from ongoing projects, NextJS landing pages   
+**Tasks:** Develop from scratch React dashboard SPA, React modules for ongoing projects, NextJS landing pages   
 **Technologies:** Next.js, styled-components, MaterialUI, ReactJS, react-select, react-redux, react-draft-wysiwyg  
 
 Company: **frontback.org**  
