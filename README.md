@@ -97,6 +97,7 @@ Company: **hackernoon.com**
 - :innocent: Timestamp microservice (NodeJS app)
 [[CODE](https://github.com/master-bogdan/timestamp-microservice) || [DEMO](https://shrouded-cove-70508.herokuapp.com/)]  
 - :space_invader: OLX NodeJS scraper [[CODE](https://github.com/master-bogdan/nodejs-olx-scraper)]  
+- :lock: Simple Fullstack (React + Nodejs) Auth App [[CODE](https://github.com/master-bogdan/fulllstack-auth) || [DEMO](https://fullstack-auth.herokuapp.com/)]  
 
 #### :fast_forward: React.js apps
 - :dolls: React friend app
