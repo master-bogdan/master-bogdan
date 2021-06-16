@@ -1,5 +1,6 @@
 :octocat: WELCOME TO MY GITHUB PAGE 
 ==================    
+# :innocent: I am frontend React / Fullstack (React + NodeJS) developer  
 ### :construction_worker: WORKING EXPERIENCE
 Company: **lineup.com.ua**  
 **Position:** React Frontend developer  
