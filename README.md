@@ -44,19 +44,14 @@ Company: **hackernoon.com**
 - **Basic**: Node.js
 - **Databases**: Firebase, MySQL, MongoDB
 - **Frameworks**: ExpressJS 
-### **Bundlers**: 
-- Webpack (basic), Gulp
-### **UX tools**: 
-- Figma, Sketch
-### **VCS**: 
-- GitHub, GitLab
-### **IDE**: 
-- VSCode
-### **Platforms / OS**: 
-- Linux, Windows
-
-### OTHER 
-**Technologies which I learn now or improve my skill**
+### **Other**: 
+- **Bundlers**: Webpack (basic), Gulp
+- **UX tools**: Figma, Sketch
+- **Version Control Systems**: Github, Gitlab
+- **IDE**: VSCode
+- **Platforms / OS**: Linux, Windows
+ 
+### **Technologies which I learn now or improve my skill**
 - NestJS
 - Angular 9+  
 
@@ -65,25 +60,30 @@ Company: **hackernoon.com**
 ## :open_file_folder: MY PORTFOLIO
 
 ### :department_store: Commercial projects  
-**:camera: Landing page for Photographer [[CODE](https://github.com/master-bogdan/nastya-project) || [DEMO](https://master-bogdan.github.io/nastya-project/)]**     
+
+---
+
+**:camera: Landing page for Photographer [[CODE](https://github.com/master-bogdan/nastya-project) || [DEMO](https://master-bogdan.github.io/nastya-project/)]**   
 - **Task:** Make adaptive landing page 
 - **Technologies used:** HTML5, CSS3 (SCSS), Native JS, Gulp, Webpack   
 
-**:currency_exchange: pay.kuna.io [code for this project I can show only by video call || [LINK TO WEBSITE](https://pay.kuna.io/uk)]**  
+**:currency_exchange: pay.kuna.io [[LINK TO WEBSITE](https://pay.kuna.io/uk)]**  
 - **Task:** Make website transition to React.js, with mobile adaptation. Make translate function for 3 languages.
-- **Technologies used:** React(styled-components, i18), NextJS    
+- **Technologies used:** React(styled-components, i18n), NextJS    
 
-**:currency_exchange: xreserve.fund [code for this project I can show only by video call || [LINK TO WEBSITE](https://xreserve.fund/uk)]**  
+**:currency_exchange: xreserve.fund [[LINK TO WEBSITE](https://xreserve.fund/uk)]**  
 - **Task:** Make website transition to React.js, with mobile adaptation. Make translate function for 3 languages
-- **Technologies used:** React(styled-components, i18), NextJS   
+- **Technologies used:** React(styled-components, i18n), NextJS   
   
-**:rocket: https://frontback.org/ [code for this project I can show only by video call || [LINK TO WEBSITE](https://frontback.org/)]**
+**:rocket: frontback.org [[LINK TO WEBSITE](https://frontback.org/)]**
 - **Task:** Make basic layout and components from Figma design
 - **Technologies used:** React(styled-components), NextJS 
 
 **:bar_chart: HTML/CSS/JS coding dashboard [[CODE](https://github.com/master-bogdan/crew-only-dashboard) || [LINK TO DEMO](https://master-bogdan.github.io/crew-only-dashboard/)]**
 - **Task:** HTML / CSS coding with Bootstrap, mobile adaptation
 - **Technologies used:** HTML5, CSS3, PUG, SCSS, Gulp, Bootstrap  
+
+---
 
 ## My training or PET projects
 ***In all projects README.md with instructions**  
