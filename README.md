@@ -1,14 +1,14 @@
 :octocat: WELCOME TO MY GITHUB PAGE 
 ==================    
 # :innocent: I am frontend React / Fullstack (React + NodeJS) developer  
-### :construction_worker: WORKING EXPERIENCE
+## :construction_worker: WORKING EXPERIENCE
 Company: **lineup.com.ua**  
 **Position:** React Frontend developer  
 **Period:** from May 2021 - now (fulltime, remote)  
-**Technologies:** ReactJS, TypeScript, Firebase, scss modules, react-bootstrap, react-redux  
+**Technologies:** ReactJS, NextJS, TypeScript, Firebase, scss modules, react-bootstrap, react-redux  
 
 **Freelance** freelancehunt.com - [link to my profile](https://freelancehunt.com/freelancer/master-bogdan.html)  
-**Period:** from August 2020 - Now  
+**Period:** from August 2020 - May 2021 (10 month)  
 **Tasks:** Develop from scratch React projects, fix bugs on existing projects, HTML / CSS / JS codding   
 **Technologies:** Next.js, styled-components, MaterialUI, ReactJS, NodeJS, express, TypeScript, Firebase  
 
@@ -20,37 +20,47 @@ Company: **yougotit.agency**
 
 Company: **frontback.org**  
 **Position:** Junior ReactJS, Fullstack developer  
-**Period:** from September 2020 - April 2021 (8 month, Remote)  
+**Period:** from September 2020 - April 2021 (8 month, part-time, Remote)  
 **Tasks:** Develop websites, webapps with ReactJS and Next.js, support ongoing projects  
 **Technologies:** React, Next.js, styled-components, MaterialUI, ReactJS, TypeScript, Firebase, react-redux, i18next, NodeJS  
 
 Company: **hackernoon.com**  
 **Position:** ReactJS (NextJS) developer  
-**Period:** from November 2020 - February 2021 (4 month, part-time, Remote)  
+**Period:** from November 2020 - February 2021 (4 month, project work, Remote)  
 **Tasks:**   
 - Develop inner service to convert markdown text to React components  
 - Develop inner service for email auto answer  
 
 **Technologies:** Next.js (API, MDX), ReactJS, antd, NodeJS  
 
-### :chart_with_upwards_trend: TECHNOLOGIES
-- **Frontend**: HTML5, CSS3 (includes SASS / SCSS) , JavaScript (ES6+)
-- **Framework**: ReactJS (react-redux, styled-components, Hooks, MaterialUI, TypeScript), NextJS    
-- **Backend**: Node.js, Express, PHP (basic), MySQL, MongoDB, Firebase
-- **UX tools**: Figma, Adobe Photoshop, Avocode
-- **VCS**: GitHub, GitLab
-- **IDE**: VSCode
-- **Platforms**: Linux, Windows
+## :chart_with_upwards_trend: TECHNOLOGIES
+### **Frontend**
+- **Basic**: HTML5, CSS3, JavaScript (ES6+) / TypeScript
+- **Preprocessors**: SASS / SCSS, Pug
+- **Frameworks**: 
+  - ReactJS / NextJS (react-redux, styled-components, Hooks, MaterialUI, TypeScript, scss modules, axios, react-router-dom, ...)
+  - Angular 9+ (Just start to learn)  
+### **Backend**
+- **Basic**: Node.js
+- **Databases**: Firebase, MySQL, MongoDB
+- **Frameworks**: ExpressJS 
+### **Bundlers**: 
+- Webpack (basic), Gulp
+### **UX tools**: 
+- Figma, Sketch
+### **VCS**: 
+- GitHub, GitLab
+### **IDE**: 
+- VSCode
+### **Platforms / OS**: 
+- Linux, Windows
 
 ### OTHER 
-**Technologies which I learn now**
-- Firebase
-- Node.js
+**Technologies which I learn now or improve my skill**
 - NestJS
+- Angular 9+  
 
-**Technologies where I have some knowlegies**
-- CMS: WordPress
-- Basic Linux bash terminal
+---
 
 ## :open_file_folder: MY PORTFOLIO
 
