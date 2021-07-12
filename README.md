@@ -2,36 +2,61 @@
 ==================    
 # :innocent: I am frontend React / Fullstack (React + NodeJS) developer  
 ## :construction_worker: WORKING EXPERIENCE
-Company: **lineup.com.ua**  
+
+### Company: **lineup.com.ua**  
 **Position:** React Frontend developer  
 **Period:** from May 2021 - now (fulltime, remote)  
 **Technologies:** ReactJS, NextJS, TypeScript, Firebase, scss modules, react-bootstrap, react-redux  
+___
 
-**Freelance** freelancehunt.com - [link to my profile](https://freelancehunt.com/freelancer/master-bogdan.html)  
+### **Freelance** freelancehunt.com - [link to my profile](https://freelancehunt.com/freelancer/master-bogdan.html)  
 **Period:** from August 2020 - May 2021 (10 month)  
 **Tasks:** Develop from scratch React projects, fix bugs on existing projects, HTML / CSS / JS codding   
 **Technologies:** Next.js, styled-components, MaterialUI, ReactJS, NodeJS, express, TypeScript, Firebase  
+___
 
-Company: **yougotit.agency**  
+### Company: **yougotit.agency**  
 **Position:** ReactJS, NextJS developer  
 **Period:** from December 2020 - April 2021 (6 month, part-time, Remote)  
-**Tasks:** Develop from scratch React dashboard SPA, React modules for ongoing projects, NextJS landing pages   
-**Technologies:** Next.js, styled-components, MaterialUI, ReactJS, react-select, react-redux, react-draft-wysiwyg  
+**Projects:**   
+- Webservice for online shopping    
+**Task**:  Develop frontend with ReactJS for rooms for online shopping, with stream video, online chat
+- Service for analyzing news, converting voice message to text   
+**Task**:  Develop from scratch dashboard for feature API integration with ReactJS
+- Landing pages for online shopping webservice   
+**Task**:  Develop Landing pages with NextJS
+**Technologies:** ReactJS, Next.js, styled-components, MaterialUI, ReactJS, react-select, react-redux, react-draft-wysiwyg, react-router-dom  
+___
 
-Company: **frontback.org**  
+### Company: **frontback.org**  
 **Position:** Junior ReactJS, Fullstack developer  
 **Period:** from September 2020 - April 2021 (8 month, part-time, Remote)  
-**Tasks:** Develop websites, webapps with ReactJS and Next.js, support ongoing projects  
+**Projects:**   
+- [pay.kuna.io/uk](https://pay.kuna.io/uk)    
+**Task**:  Redo website from contructor to NextJS, add internationalization
+- [xreserve.fund/uk](https://xreserve.fund/uk)   
+**Task**:  Redo website from contructor to NextJS, add internationalization
+- [frontback.org](https://frontback.org/)   
+**Task**:  Basic project setup, adding most of UI components
+- [criticalsites.wetlands.org](https://criticalsites.wetlands.org/en)   
+**Task**:  Adding new features (popup with detailed data), some Ui fixes
+- Company Ticket System   
+**Task**:  Develop company inner service to process tickets from clients, with sorting, data analysis, with firebase backend
 **Technologies:** React, Next.js, styled-components, MaterialUI, ReactJS, TypeScript, Firebase, react-redux, i18next, NodeJS  
+___
 
-Company: **hackernoon.com**  
+### Company: **hackernoon.com**  
 **Position:** ReactJS (NextJS) developer  
 **Period:** from November 2020 - February 2021 (4 month, project work, Remote)  
-**Tasks:**   
-- Develop inner service to convert markdown text to React components  
-- Develop inner service for email auto answer  
+**Projects:**   
+- Email markdown generator    
+**Task**:  Develop React components for markdown conventer, which converts markdown to HTML emails
+
+- Service for email auto answer    
+**Task**:  Develop service which takes parameters from URL and sends it to Sendgrid service for email autoanswer
 
 **Technologies:** Next.js (API, MDX), ReactJS, antd, NodeJS  
+___
 
 ## :chart_with_upwards_trend: TECHNOLOGIES
 ### **Frontend**
