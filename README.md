@@ -24,7 +24,8 @@ ___
 - Service for analyzing news, converting voice message to text   
 **Task**:  Develop from scratch dashboard for feature API integration with ReactJS
 - Landing pages for online shopping webservice   
-**Task**:  Develop Landing pages with NextJS
+**Task**:  Develop Landing pages with NextJS  
+
 **Technologies:** ReactJS, Next.js, styled-components, MaterialUI, ReactJS, react-select, react-redux, react-draft-wysiwyg, react-router-dom  
 ___
 
@@ -41,7 +42,8 @@ ___
 - [criticalsites.wetlands.org](https://criticalsites.wetlands.org/en)   
 **Task**:  Adding new features (popup with detailed data), some Ui fixes
 - Company Ticket System   
-**Task**:  Develop company inner service to process tickets from clients, with sorting, data analysis, with firebase backend
+**Task**:  Develop company inner service to process tickets from clients, with sorting, data analysis, with firebase backend   
+
 **Technologies:** React, Next.js, styled-components, MaterialUI, ReactJS, TypeScript, Firebase, react-redux, i18next, NodeJS  
 ___
 
