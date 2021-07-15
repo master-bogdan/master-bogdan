@@ -1,21 +1,62 @@
-:octocat: WELCOME TO MY GITHUB PAGE 
-==================    
-# :innocent: I am frontend React / Fullstack (React + NodeJS) developer  
+<h1 align="center">Hi 👋, I'm Bogdan Shchavinskyi</h1>
+<h3 align="center">A passionate frontend React / Fullstack (React + Nodejs) developer from Ukraine :ukraine:</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=master-bogdan&label=Profile%20views&color=0e75b6&style=flat-square" alt="master-bogdan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-bogdan" alt="master-bogdan" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=master-bogdan&show_icons=true&theme=dark&locale=en&layout=compact" alt="master-bogdan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=master-bogdan&show_icons=true&theme=dark&locale=en" alt="master-bogdan" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/bogdan-shchavinskyi-a36910146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bogdan-shchavinskyi-a36910146" height="30" width="40" /></a>
+  <a href="https://instagram.com/diver_masterbogdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diver_masterbogdan" height="30" width="40" /></a>
+</p>
+
+
+___
+
+## :chart_with_upwards_trend: LANGUAGES AND TOOLS:
+### **Frontend**
+- **Basic**: HTML5, CSS3, JavaScript (ES6+) / TypeScript
+- **Preprocessors**: SASS / SCSS, Pug
+- **Frameworks**: 
+  - ReactJS / NextJS (react-redux, styled-components, Hooks, MaterialUI, TypeScript, scss modules, axios, react-router-dom, ...)
+  - Angular 9+ (Just start to learn)  
+### **Backend**
+- **Basic**: Node.js
+- **Databases**: Firebase Firestore, MySQL, MongoDB
+- **Backend as a service**: Firebase, Heroku
+- **Frameworks**: ExpressJS 
+### **Other**: 
+- **Bundlers**: Webpack (basic), Gulp
+- **UX tools**: Figma, Sketch
+- **Version Control Systems**: Github, Gitlab
+- **IDE**: VSCode
+- **Platforms / OS**: Linux, Windows
+ 
+### **Technologies which I learn now or improve my skill**
+- NestJS
+- Angular 9+  
+
+___
+
 ## :construction_worker: WORKING EXPERIENCE
 
-### Company: **lineup.com.ua**  
+### 🤝 Company: **lineup.com.ua**  
 **Position:** React Frontend developer  
 **Period:** from May 2021 - now (fulltime, remote)  
 **Technologies:** ReactJS, NextJS, TypeScript, Firebase, scss modules, react-bootstrap, react-redux  
 ___
 
-### **Freelance** freelancehunt.com - [link to my profile](https://freelancehunt.com/freelancer/master-bogdan.html)  
+### 🤝 **Freelance** freelancehunt.com - [link to my profile](https://freelancehunt.com/freelancer/master-bogdan.html)  
 **Period:** from August 2020 - May 2021 (10 month)  
 **Tasks:** Develop from scratch React projects, fix bugs on existing projects, HTML / CSS / JS codding   
 **Technologies:** Next.js, styled-components, MaterialUI, ReactJS, NodeJS, express, TypeScript, Firebase  
 ___
 
-### Company: **yougotit.agency**  
+### 🤝 Company: **yougotit.agency**  
 **Position:** ReactJS, NextJS developer  
 **Period:** from December 2020 - April 2021 (6 month, part-time, Remote)  
 **Projects:**   
@@ -29,7 +70,7 @@ ___
 **Technologies:** ReactJS, Next.js, styled-components, MaterialUI, ReactJS, react-select, react-redux, react-draft-wysiwyg, react-router-dom  
 ___
 
-### Company: **frontback.org**  
+### 🤝 Company: **frontback.org**  
 **Position:** Junior ReactJS, Fullstack developer  
 **Period:** from September 2020 - April 2021 (8 month, part-time, Remote)  
 **Projects:**   
@@ -47,7 +88,7 @@ ___
 **Technologies:** React, Next.js, styled-components, MaterialUI, ReactJS, TypeScript, Firebase, react-redux, i18next, NodeJS  
 ___
 
-### Company: **hackernoon.com**  
+### 🤝 Company: **hackernoon.com**  
 **Position:** ReactJS (NextJS) developer  
 **Period:** from November 2020 - February 2021 (4 month, project work, Remote)  
 **Projects:**   
@@ -58,37 +99,10 @@ ___
 **Task**:  Develop service which takes parameters from URL and sends it to Sendgrid service for email autoanswer
 
 **Technologies:** Next.js (API, MDX), ReactJS, antd, NodeJS  
-___
-
-## :chart_with_upwards_trend: TECHNOLOGIES
-### **Frontend**
-- **Basic**: HTML5, CSS3, JavaScript (ES6+) / TypeScript
-- **Preprocessors**: SASS / SCSS, Pug
-- **Frameworks**: 
-  - ReactJS / NextJS (react-redux, styled-components, Hooks, MaterialUI, TypeScript, scss modules, axios, react-router-dom, ...)
-  - Angular 9+ (Just start to learn)  
-### **Backend**
-- **Basic**: Node.js
-- **Databases**: Firebase, MySQL, MongoDB
-- **Frameworks**: ExpressJS 
-### **Other**: 
-- **Bundlers**: Webpack (basic), Gulp
-- **UX tools**: Figma, Sketch
-- **Version Control Systems**: Github, Gitlab
-- **IDE**: VSCode
-- **Platforms / OS**: Linux, Windows
- 
-### **Technologies which I learn now or improve my skill**
-- NestJS
-- Angular 9+  
 
 ---
 
-## :open_file_folder: MY PORTFOLIO
-
-### :department_store: Commercial projects  
-
----
+## :department_store: Commercial projects  
 
 **:camera: Landing page for Photographer [[CODE](https://github.com/master-bogdan/nastya-project) || [DEMO](https://master-bogdan.github.io/nastya-project/)]**   
 - **Task:** Make adaptive landing page 
