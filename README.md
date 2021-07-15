@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend React / Fullstack (React + Nodejs) developer from Ukraine :ukraine:</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=master-bogdan&label=Profile%20views&color=0e75b6&style=flat-square" alt="master-bogdan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-bogdan" alt="master-bogdan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-bogdan" alt="master-bogdan" /></a> </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=master-bogdan&show_icons=true&theme=dark&locale=en&layout=compact" alt="master-bogdan" />&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=master-bogdan&show_icons=true&theme=dark&locale=en" alt="master-bogdan" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=master-bogdan&show_icons=true&theme=dark&locale=en&layout=compact" alt="master-bogdan" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=master-bogdan&show_icons=true&theme=dark&locale=en" alt="master-bogdan" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
