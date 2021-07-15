@@ -23,8 +23,9 @@ ___
 - **Basic**: HTML5, CSS3, JavaScript (ES6+) / TypeScript
 - **Preprocessors**: SASS / SCSS, Pug
 - **Frameworks**: 
-  - ReactJS / NextJS (react-redux, styled-components, Hooks, MaterialUI, TypeScript, scss modules, axios, react-router-dom, ...)
+  - ReactJS / NextJS (react-redux, styled-components, Hooks, TypeScript, scss modules, axios, react-router-dom, and more...)
   - Angular 9+ (Just start to learn)  
+- **Ui libraries**: Bootstrap / React-bootstrap, React Material Ui, Materialize
 ### **Backend**
 - **Basic**: Node.js
 - **Databases**: Firebase Firestore, MySQL, MongoDB
@@ -48,7 +49,7 @@ ___
 ### 🤝 Company: **lineup.com.ua**  
 **Position:** React Frontend developer  
 **Period:** from May 2021 - now (fulltime, remote)  
-**Technologies:** ReactJS, NextJS, TypeScript, Firebase, scss modules, react-bootstrap, react-redux  
+**Technologies:** ReactJS, NextJS, TypeScript, Firebase, scss modules, react-bootstrap, react-redux, Storyblok (not storybook)  
 ___
 
 ### 🤝 **Freelance** freelancehunt.com - [link to my profile](https://freelancehunt.com/freelancer/master-bogdan.html)  
