@@ -49,7 +49,12 @@ ___
 ### 🤝 Company: **lineup.com.ua**  
 **Position:** React Frontend developer  
 **Period:** from May 2021 - now (fulltime, remote)  
-**Technologies:** ReactJS, NextJS, TypeScript, Firebase, scss modules, react-bootstrap, react-redux, Storyblok (not storybook)  
+**Projects:**   
+- Marketplace    
+**Task**: Frontend Techlead on project.  Frontend react developers interviewing for project. Develop web application for managing products, online shopping, analytics, etc... Develop Landing page with Next JS and internationalization for project. Deploy and setup dev environments in firebase. Integration CMS Storybook, Stripe, google analytics.  
+
+**Tasks inside company**:  Frontend react developers interviewing  
+**Technologies:** ReactJS, NextJS, TypeScript, Firebase, scss modules, react-bootstrap, react-redux, Storyblok (not storybook), Stripe  
 ___
 
 ### 🤝 **Freelance** freelancehunt.com - [link to my profile](https://freelancehunt.com/freelancer/master-bogdan.html)  
@@ -88,19 +93,6 @@ ___
 **Task**:  Develop company inner service to process tickets from clients, with sorting, data analysis, with firebase backend   
 
 **Technologies:** React, Next.js, styled-components, MaterialUI, ReactJS, TypeScript, Firebase, react-redux, i18next, NodeJS  
-___
-
-### 🤝 Company: **hackernoon.com**  
-**Position:** ReactJS (NextJS) developer  
-**Period:** from November 2020 - February 2021 (4 month, project work, Remote)  
-**Projects:**   
-- Email markdown generator    
-**Task**:  Develop React components for markdown conventer, which converts markdown to HTML emails
-
-- Service for email auto answer    
-**Task**:  Develop service which takes parameters from URL and sends it to Sendgrid service for email autoanswer
-
-**Technologies:** Next.js (API, MDX), ReactJS, antd, NodeJS  
 
 ---
 
