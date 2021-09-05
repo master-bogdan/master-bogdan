@@ -15,9 +15,14 @@
   <a href="https://instagram.com/diver_masterbogdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diver_masterbogdan" height="30" width="40" /></a>
 </p>
 
-<a href="https://linkedin.com/in/bogdan-shchavinskyi-a36910146" target="blank">
-  My certifications from passed courses and tests
-</a>
+<p align="left">
+  <span>:muscle: => </span>
+  <a href="https://github.com/master-bogdan/master-bogdan/tree/master/certificates" target="blank">
+   My certifications from passed courses and tests
+  </a>
+</p>
+
+
 ___
 
 ## :chart_with_upwards_trend: LANGUAGES AND TOOLS:
