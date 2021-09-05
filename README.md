@@ -17,7 +17,7 @@
 
 <p align="left">
   <span>:muscle: => </span>
-  <a href="https://github.com/master-bogdan/master-bogdan/tree/master/certificates" target="blank">
+  <a href="https://github.com/master-bogdan/master-bogdan/tree/master/certificates" target="_blank">
    My certifications from passed courses and tests
   </a>
 </p>
