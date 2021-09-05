@@ -20,14 +20,14 @@ ___
 
 ## :chart_with_upwards_trend: LANGUAGES AND TOOLS:
 ### **Frontend**
-- **Basic**: HTML5, CSS3, JavaScript (ES6+) / TypeScript
+- **Base**: HTML5, CSS3, JavaScript (ES6+) / TypeScript
 - **Preprocessors**: SASS / SCSS, Pug
 - **Frameworks**: 
   - ReactJS / NextJS (react-redux, styled-components, Hooks, TypeScript, scss modules, axios, react-router-dom, and more...)
   - Angular 9+ (Just start to learn)  
 - **Ui libraries**: Bootstrap / React-bootstrap, React Material Ui, Materialize
 ### **Backend**
-- **Basic**: Node.js
+- **Base**: Node.js
 - **Databases**: Firebase Firestore, MySQL, MongoDB
 - **Backend as a service**: Firebase, Heroku
 - **Frameworks**: ExpressJS 
@@ -44,14 +44,14 @@ ___
 
 ___
 
-## :construction_worker: WORKING EXPERIENCE
+## :construction_worker: WORKING EXPERIENCE (summary 1.5+ years of commercial experience)
 
 ### 🤝 Company: **lineup.com.ua**  
 **Position:** React Frontend developer  
 **Period:** from May 2021 - now (fulltime, remote)  
 **Projects:**   
 - Marketplace    
-**Task**: Frontend Techlead on project.  Frontend react developers interviewing for project. Develop web application for managing products, online shopping, analytics, etc... Develop Landing page with Next JS and internationalization for project. Deploy and setup dev environments in firebase. Integration CMS Storybook, Stripe, google analytics.  
+**Task**: Frontend Techlead on project. Frontend react developers interviewing for project. Develop web application for managing products, online shopping, analytics, etc... Develop Landing page with Next JS and internationalization for project. Deploy and setup dev environments in firebase. Integration CMS Storyblok( Not Storybook), Stripe, google analytics.  
 
 **Tasks inside company**:  Frontend react developers interviewing  
 **Technologies:** ReactJS, NextJS, TypeScript, Firebase, scss modules, react-bootstrap, react-redux, Storyblok (not storybook), Stripe  
