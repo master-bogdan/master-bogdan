@@ -103,7 +103,7 @@ ___
 
 ---
 
-## :department_store: Commercial projects  
+## :department_store: Commercial projects without NDA  
 
 **:camera: Landing page for Photographer [[CODE](https://github.com/master-bogdan/nastya-project) || [DEMO](https://master-bogdan.github.io/nastya-project/)]**   
 - **Task:** Make adaptive landing page 
