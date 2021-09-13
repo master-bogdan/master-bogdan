@@ -27,14 +27,13 @@ ___
 
 ## :chart_with_upwards_trend: LANGUAGES AND TOOLS:
 ### **Frontend**
-- **Base**: HTML5, CSS3, JavaScript (ES6+) / TypeScript
+- **Main**: HTML5, CSS3, JavaScript (ES6+) / TypeScript
 - **Preprocessors**: SASS / SCSS, Pug
 - **Frameworks**: 
-  - ReactJS / NextJS (react-redux, styled-components, Hooks, TypeScript, scss modules, axios, react-router-dom, and more...)
-  - Angular 9+ (Just start to learn)  
+  - ReactJS / NextJS (Hooks, TypeScript, react-router-dom, react-redux, styled-components, scss modules, axios, and more...) 
 - **Ui libraries**: Bootstrap / React-bootstrap, React Material Ui, Materialize
 ### **Backend**
-- **Base**: Node.js
+- **Main**: Node.js
 - **Databases**: Firebase Firestore, MySQL, MongoDB
 - **Backend as a service**: Firebase, Heroku
 - **Frameworks**: ExpressJS 
@@ -47,7 +46,8 @@ ___
  
 ### **Technologies which I learn now or improve my skill**
 - NestJS
-- Angular 9+  
+- Angular 9+
+- React unit & integration testing  
 
 ___
 
