@@ -31,6 +31,7 @@ ___
 - **Preprocessors**: SASS / SCSS, Pug
 - **Frameworks**: 
   - ReactJS / NextJS (Hooks, TypeScript, react-router-dom, react-redux, styled-components, scss modules, axios, and more...) 
+  - Angular 9 + (basic)
 - **Ui libraries**: Bootstrap / React-bootstrap, React Material Ui, Materialize
 ### **Backend**
 - **Main**: Node.js
@@ -159,6 +160,10 @@ ___
 [[CODE](https://github.com/master-bogdan/react-friends-app/tree/master) || [DEMO](https://master-bogdan.github.io/react-friends-app/)]
 - :dart: React memory game (11.02.2020 refactored)
 [[CODE](https://github.com/master-bogdan/react-memory-pair-game/tree/master) || [DEMO](https://master-bogdan.github.io/react-memory-pair-game/)]  
+
+#### :fast_forward: Angular apps
+- Angular simple blog
+[[CODE](https://github.com/master-bogdan/angular-blog)]  
   
 #### :fast_forward: HTML & CSS & JS Layout coding  
 - :ok_woman: HTML & CSS CV page with pdf download function (real project)
