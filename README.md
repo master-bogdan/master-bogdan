@@ -33,6 +33,7 @@ ___
   - ReactJS / NextJS (Hooks, TypeScript, react-router-dom, react-redux, styled-components, scss modules, axios, and more...) 
   - Angular 9 + (basic)
 - **Ui libraries**: Bootstrap / React-bootstrap, React Material Ui, Materialize
+- **Tests**: react-testing-library
 ### **Backend**
 - **Main**: Node.js
 - **Databases**: Firebase Firestore, MySQL, MongoDB
