@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bogdan Shchavinskyi</h1>
-<h3 align="center">A passionate frontend React / Fullstack (React + Nodejs) developer from Ukraine :ukraine:</h3>
+<h3 align="center">A passionate Frontend / Fullstack JS (React + Nodejs) developer from Ukraine :ukraine:</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=master-bogdan&label=Profile%20views&color=0e75b6&style=flat-square" alt="master-bogdan" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-bogdan&theme=onedark" alt="master-bogdan" /></a> </p>
@@ -36,10 +36,11 @@ ___
 - **Tests**: react-testing-library
 ### **Backend**
 - **Main**: Node.js
-- **Databases**: Firebase Firestore, MySQL, MongoDB
+- **Databases**: Firebase Firestore, PostgreSQL, MongoDB
 - **Backend as a service**: Firebase, Heroku
-- **Frameworks**: ExpressJS 
+- **Frameworks**: ExpressJS, NestJS 
 ### **Other**: 
+- **DevOps**: Docker, docker-compose
 - **Bundlers**: Webpack (basic), Gulp
 - **UX tools**: Figma, Sketch
 - **Version Control Systems**: Github, Gitlab
@@ -50,20 +51,25 @@ ___
 - NestJS
 - Angular 9+
 - React unit & integration testing  
+- Docker, docker-compose
 
 ___
 
 ## :construction_worker: WORKING EXPERIENCE (summary 1.5+ years of commercial experience)
 
 ### 🤝 Company: **lineup.com.ua**  
-**Position:** React Frontend developer  
+**Position:** React Frontend developer / Fullstack JS developer  
 **Period:** from May 2021 - now (fulltime, remote)  
 **Projects:**   
-- Marketplace    
-**Task**: Frontend Techlead on project. Frontend react developers interviewing for project. Develop web application for managing products, online shopping, analytics, etc... Develop Landing page with Next JS and internationalization for project. Deploy and setup dev environments in firebase. Integration CMS Storyblok( Not Storybook), Stripe, google analytics.  
+- Ecommerce (from May 2021 - November 2021)  
+**Tasks**: Frontend Lead. Build from scratch MVP web application, with React (TypeScript) for managing products, online shopping, analytics, etc... Develop Landing page with NextJS and internationalization for project. Deploy and setup dev environments in firebase. Integration CMS Storyblok(not Storybook!), Stripe, Strapi CMS, google analytics. Frontend react developers interviewing for project.   
+**Technologies:** ReactJS, NextJS, TypeScript, Firebase, scss modules, react-redux, redux-thunk, Storyblok CMS (not storybook), Stripe, Strapi CMS, Google places, SwiperJS, xlsx  
+
+- Marketplace (from November 2021 - Now)  
+**Tasks**: Fullstack JS / Tech Lead. Designing project architecture. Setup from scratch monorepository, frontend applications. Code review, UI / UX review and managing frontend team of 3 people. Developing backend API with NestJS, SendGrid integration. 
+**Technologies:** ReactJS, NextJS, NestJS, TypeScript, Docker, SendGrid, styled-components, SwiperJS, yarn workspaces, Prisma, PostreSQL, class-transformer, class-validator, nodemailer  
 
 **Tasks inside company**:  Frontend react developers interviewing  
-**Technologies:** ReactJS, NextJS, TypeScript, Firebase, scss modules, react-bootstrap, react-redux, Storyblok (not storybook), Stripe  
 ___
 
 ### 🤝 **Freelance** freelancehunt.com - [link to my profile](https://freelancehunt.com/freelancer/master-bogdan.html)  
@@ -102,30 +108,6 @@ ___
 **Task**:  Develop company inner service to process tickets from clients, with sorting, data analysis, with firebase backend   
 
 **Technologies:** React, Next.js, styled-components, MaterialUI, ReactJS, TypeScript, Firebase, react-redux, i18next, NodeJS  
-
----
-
-## :department_store: Commercial projects without NDA  
-
-**:camera: Landing page for Photographer [[CODE](https://github.com/master-bogdan/nastya-project) || [DEMO](https://master-bogdan.github.io/nastya-project/)]**   
-- **Task:** Make adaptive landing page 
-- **Technologies used:** HTML5, CSS3 (SCSS), Native JS, Gulp, Webpack   
-
-**:currency_exchange: pay.kuna.io [[LINK TO WEBSITE](https://pay.kuna.io/uk)]**  
-- **Task:** Make website transition to React.js, with mobile adaptation. Make translate function for 3 languages.
-- **Technologies used:** React(styled-components, i18n), NextJS    
-
-**:currency_exchange: xreserve.fund [[LINK TO WEBSITE](https://xreserve.fund/uk)]**  
-- **Task:** Make website transition to React.js, with mobile adaptation. Make translate function for 3 languages
-- **Technologies used:** React(styled-components, i18n), NextJS   
-  
-**:rocket: frontback.org [[LINK TO WEBSITE](https://frontback.org/)]**
-- **Task:** Make basic layout and components from Figma design
-- **Technologies used:** React(styled-components), NextJS 
-
-**:bar_chart: HTML/CSS/JS coding dashboard [[CODE](https://github.com/master-bogdan/crew-only-dashboard) || [LINK TO DEMO](https://master-bogdan.github.io/crew-only-dashboard/)]**
-- **Task:** HTML / CSS coding with Bootstrap, mobile adaptation
-- **Technologies used:** HTML5, CSS3, PUG, SCSS, Gulp, Bootstrap  
 
 ---
 
