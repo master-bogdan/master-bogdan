@@ -55,7 +55,7 @@ ___
 
 ___
 
-## :construction_worker: WORKING EXPERIENCE (summary 1.5+ years of commercial experience)
+## :construction_worker: WORKING EXPERIENCE
 
 ### 🤝 Company: **lineup.com.ua**  
 **Position:** React Frontend developer / Fullstack JS developer  
