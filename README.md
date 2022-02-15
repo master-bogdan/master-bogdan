@@ -152,8 +152,6 @@ ___
 #### :fast_forward: HTML & CSS & JS Layout coding  
 - :ok_woman: HTML & CSS CV page with pdf download function (real project)
 {[code](https://github.com/master-bogdan/Irina-resume) || [demo](https://master-bogdan.github.io/Irina-resume/)}
-- :hamburger: :wine_glass: :coffee: HTML5 & CSS3 & JS Lambda page from PSD
-{[code](https://github.com/master-bogdan/lambda-project) || [demo](https://master-bogdan.github.io/lambda-project/)}
 - :ticket: Article preview component (HTML5 & CSS3 coding)
 {[code](https://github.com/master-bogdan/fm-article-preview-component) || [demo](https://master-bogdan.github.io/fm-article-preview-component/)}
 - :city_sunset: Social dashboard with theme switcher (HTML5 & CSS3 & JS coding)
