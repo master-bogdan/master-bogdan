@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bogdan Shchavinskyi</h1>
-<h3 align="center">A passionate Frontend / Fullstack JS (React + Nodejs) developer from Ukraine :ukraine:</h3>
+<h3 align="center">A passionate Fullstack JS (React + Nodejs) developer from Ukraine :ukraine:</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=master-bogdan&label=Profile%20views&color=0e75b6&style=flat-square" alt="master-bogdan" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-bogdan&theme=onedark" alt="master-bogdan" /></a> </p>
