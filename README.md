@@ -63,8 +63,8 @@ ___
 **Projects:**   
 
 - Marketplace (from November 2021 - March 2022)  
-**Tasks**: Fullstack JS / Tech Lead. Designing project architecture. Setup from scratch monorepository, frontend applications. Code review, UI / UX review and managing frontend team of 3 people. Developing backend API with NestJS, SendGrid integration. 
-**Technologies:** ReactJS, NextJS, Material UI, Redux Toolkit, NestJS, TypeScript, Docker, SendGrid, styled-components, SwiperJS, yarn workspaces, Prisma, PostreSQL, class-transformer, class-validator, nodemailer  
+**Tasks**: Fullstack JS / Tech Lead. Designing project architecture. Setup from scratch monorepository, frontend applications. Code review, UI / UX review and managing frontend team of 3 people. Developing backend API with NestJS, SendGrid integration.  
+**Technologies:** ReactJS, NextJS, Material UI, Redux Toolkit, NestJS, TypeScript, Docker, SendGrid, styled-components, SwiperJS, yarn workspaces, Prisma, PostreSQL, class-transformer, class-validator, nodemailer, minIO, socket.io  
 
 - Ecommerce (from May 2021 - November 2021)  
 **Tasks**: Frontend Lead. Build from scratch MVP web application, with React (TypeScript) for managing products, online shopping, analytics, etc... Develop Landing page with NextJS and internationalization for project. Deploy and setup dev environments in firebase. CMS Storyblok(not Storybook!), Stripe, Strapi CMS, google analytics integrations. Frontend react developers interviewing for project.   
