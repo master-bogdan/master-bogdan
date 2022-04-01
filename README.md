@@ -59,12 +59,8 @@ ___
 
 ### 🤝 Company: **lineup.com.ua**  
 **Position:** React Frontend developer / Fullstack JS developer  
-**Period:** from May 2021 - now (fulltime, remote)  
+**Period:** from May 2021 - April 2022 (12 month, fulltime, remote)  
 **Projects:**   
-
-- Fintech (from March 2022 - now)  
-**Tasks**: Fullstack JS / Tech Lead. Designing project architecture. Setup from scratch repositories, frontend application. Code review, UI / UX review and managing team of 3 people (2 frontend developer, 1 backend developer).
-**Technologies:** ReactJS, NestJS, TypeScript, Docker, Material UI, Redux Toolkit  
 
 - Marketplace (from November 2021 - March 2022)  
 **Tasks**: Fullstack JS / Tech Lead. Designing project architecture. Setup from scratch monorepository, frontend applications. Code review, UI / UX review and managing frontend team of 3 people. Developing backend API with NestJS, SendGrid integration. 
