@@ -73,12 +73,6 @@ ___
 **Tasks inside company**:  Frontend react developers interviewing, projects estimate  
 ___
 
-### 🤝 **Freelance** freelancehunt.com - [link to my profile](https://freelancehunt.com/freelancer/master-bogdan.html)  
-**Period:** from August 2020 - May 2021 (10 month)  
-**Tasks:** Develop from scratch React projects, fix bugs on existing projects, HTML / CSS / JS codding   
-**Technologies:** Next.js, styled-components, MaterialUI, ReactJS, NodeJS, express, TypeScript, Firebase  
-___
-
 ### 🤝 Company: **yougotit.agency**  
 **Position:** ReactJS, NextJS developer  
 **Period:** from December 2020 - April 2021 (6 month, part-time, Remote)  
@@ -109,8 +103,13 @@ ___
 **Task**:  Develop company inner service to process tickets from clients, with sorting, data analysis, with firebase backend   
 
 **Technologies:** React, Next.js, styled-components, MaterialUI, ReactJS, TypeScript, Firebase, react-redux, i18next, NodeJS  
+___
 
----
+### 🤝 **Freelance** freelancehunt.com - [link to my profile](https://freelancehunt.com/freelancer/master-bogdan.html)  
+**Period:** from August 2020 - May 2021 (10 month)  
+**Tasks:** Develop from scratch React projects, fix bugs on existing projects, HTML / CSS / JS codding   
+**Technologies:** Next.js, styled-components, MaterialUI, ReactJS, NodeJS, express, TypeScript, Firebase  
+___
 
 ## My training or PET projects
 ***In all projects README.md with instructions**  
