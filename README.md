@@ -57,14 +57,24 @@ ___
 
 ## :construction_worker: WORKING EXPERIENCE
 
+### 🤝 Company: **ALEPH ONE - aleph1.io**  
+**Position:** Middle Fullstack JS engineer  
+**Period:** from April 2022 - Now (fulltime, remote)  
+**Projects:**   
+
+- https://swag.com/  
+**Tasks**: Member of API integration team. Add new features, endpoints to Nodejs, NestJS api. Add new markup to pages, make fixes on frontend.  
+**Technologies:** ReactJS, Material UI, Nodejs(Expressjs, NestJS), TypeScript, Docker, docker-compose styled-components, PostgreSQL, Redis, MongoDB  
+___
+
 ### 🤝 Company: **lineup.com.ua**  
-**Position:** React Frontend developer / Fullstack JS developer  
+**Position:** React Frontend developer / Lead Fullstack JS developer  
 **Period:** from May 2021 - April 2022 (12 month, fulltime, remote)  
 **Projects:**   
 
 - Marketplace (from November 2021 - March 2022)  
 **Tasks**: Fullstack JS / Tech Lead. Designing project architecture. Setup from scratch monorepository, frontend applications. Code review, UI / UX review and managing frontend team of 3 people. Developing backend API with NestJS, SendGrid integration.  
-**Technologies:** ReactJS, NextJS, Material UI, Redux Toolkit, NestJS, TypeScript, Docker, SendGrid, styled-components, SwiperJS, yarn workspaces, Prisma, PostreSQL, class-transformer, class-validator, nodemailer, minIO, socket.io  
+**Technologies:** ReactJS, NextJS, Material UI, Redux Toolkit, NestJS, TypeScript, Docker, SendGrid, styled-components, SwiperJS, yarn workspaces, Prisma, PostgreSQL, class-transformer, class-validator, nodemailer, minIO, socket.io  
 
 - Ecommerce (from May 2021 - November 2021)  
 **Tasks**: Frontend Lead. Build from scratch MVP web application, with React (TypeScript) for managing products, online shopping, analytics, etc... Develop Landing page with NextJS and internationalization for project. Deploy and setup dev environments in firebase. CMS Storyblok(not Storybook!), Stripe, Strapi CMS, google analytics integrations. Frontend react developers interviewing for project.   
