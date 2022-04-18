@@ -131,38 +131,16 @@ ___
 [[code](https://github.com/master-bogdan/weather-app) || [demo](https://master-bogdan.github.io/weather-app/)]
 - :video_game: Tetris
 [[code](https://github.com/master-bogdan/js-tetris) || [demo](https://master-bogdan.github.io/js-tetris/)]
-- :open_file_folder: JS Native Sidebar Menu
-[[code](https://github.com/master-bogdan/js-sidebar-menu) || [demo](https://master-bogdan.github.io/js-sidebar-menu/)]
 - :video_game: Tic Tac Toe
-[[code](https://github.com/master-bogdan/js-tic-tac-toe) || [demo](https://master-bogdan.github.io/js-tic-tac-toe/)]
-- :whale2: JS Tiny Underwater World OOP
-[[code](https://github.com/master-bogdan/js-tiny-world) || [demo](https://master-bogdan.github.io/js-tiny-world/)]
-- :closed_book: JS Quote Machine
-[[code](https://github.com/master-bogdan/js-quote-machine) || [demo](https://master-bogdan.github.io/js-quote-machine/)]
-- :scroll: ToDo list app 
-[[code](https://github.com/master-bogdan/js-todo-list) || [demo](https://master-bogdan.github.io/js-todo-list/)]  
+[[code](https://github.com/master-bogdan/js-tic-tac-toe) || [demo](https://master-bogdan.github.io/js-tic-tac-toe/)]  
   
 #### :fast_forward: Node.js & Fullstack apps  
-- :godmode: Fullstack (MERN) CRUD (Create, Read, Update, Delete) app [[CODE](https://github.com/master-bogdan/crud-fullstack) || [DEMO](https://crud-fullstack.vercel.app/)]  
+- :godmode: Fullstack (MERN) Heroes App [[CODE](https://github.com/master-bogdan/crud-fullstack) || [DEMO](https://crud-fullstack.vercel.app/)]  
 - :innocent: Timestamp microservice (NodeJS app)
 [[CODE](https://github.com/master-bogdan/timestamp-microservice) || [DEMO](https://shrouded-cove-70508.herokuapp.com/)]  
 - :space_invader: OLX NodeJS scraper [[CODE](https://github.com/master-bogdan/nodejs-olx-scraper)]  
 - :lock: Simple Fullstack (React + Nodejs) Auth App [[CODE](https://github.com/master-bogdan/fulllstack-auth) || [DEMO](https://fullstack-auth.herokuapp.com/)]  
 
 #### :fast_forward: React.js apps
-- :dolls: React friend app
-[[CODE](https://github.com/master-bogdan/react-friends-app/tree/master) || [DEMO](https://master-bogdan.github.io/react-friends-app/)]
 - :dart: React memory game (11.02.2020 refactored)
 [[CODE](https://github.com/master-bogdan/react-memory-pair-game/tree/master) || [DEMO](https://master-bogdan.github.io/react-memory-pair-game/)]  
-
-#### :fast_forward: Angular apps
-- Angular simple blog
-[[CODE](https://github.com/master-bogdan/angular-blog)]  
-  
-#### :fast_forward: HTML & CSS & JS Layout coding  
-- :ok_woman: HTML & CSS CV page with pdf download function (real project)
-{[code](https://github.com/master-bogdan/Irina-resume) || [demo](https://master-bogdan.github.io/Irina-resume/)}
-- :ticket: Article preview component (HTML5 & CSS3 coding)
-{[code](https://github.com/master-bogdan/fm-article-preview-component) || [demo](https://master-bogdan.github.io/fm-article-preview-component/)}
-- :city_sunset: Social dashboard with theme switcher (HTML5 & CSS3 & JS coding)
-{[code](https://github.com/master-bogdan/fm-dashboard) || [demo](https://master-bogdan.github.io/fm-dashboard/)}
