@@ -33,17 +33,18 @@ ___
   - ReactJS / NextJS (Hooks, TypeScript, react-router-dom, react-redux, styled-components, scss modules, axios, and more...) 
   - Angular 9 + (basic)
 - **Ui libraries**: Bootstrap / React-bootstrap, React Material Ui, Materialize
-- **Tests**: react-testing-library
 ### **Backend**
-- **Main**: Node.js
+- **Main**: Node.js, (Node.js + TypeScript)
 - **Databases**: Firebase Firestore, PostgreSQL, MongoDB
-- **Backend as a service**: Firebase, Heroku
+- **ORM/ODM**: Prisma, TypeORM, Mongoose
 - **Frameworks**: ExpressJS, NestJS 
 ### **Other**: 
+- **Tests**: react-testing-library, jest, supertest
 - **DevOps**: Docker, docker-compose
 - **Bundlers**: Webpack (basic), Gulp
 - **UX tools**: Figma, Sketch
 - **Version Control Systems**: Github, Gitlab
+- **Backend as a service**: Firebase, Heroku
 - **IDE**: VSCode
 - **Platforms / OS**: Linux, Windows
  
