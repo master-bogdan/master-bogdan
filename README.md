@@ -30,7 +30,7 @@ ___
 - **Main**: HTML5, CSS3, JavaScript (ES6+) / TypeScript
 - **Preprocessors**: SASS / SCSS, Pug
 - **Frameworks**: 
-  - ReactJS / NextJS (Hooks, TypeScript, react-router-dom, react-redux, styled-components, scss modules, axios, and more...) 
+  - ReactJS / NextJS (Hooks, TypeScript, react-router-dom, react-redux, styled-components, scss modules, axios, and much more...) 
   - Angular 9 + (basic)
 - **Ui libraries**: Bootstrap / React-bootstrap, React Material Ui, Materialize
 ### **Backend**
