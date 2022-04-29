@@ -135,7 +135,7 @@ ___
 [[code](https://github.com/master-bogdan/js-tic-tac-toe) || [demo](https://master-bogdan.github.io/js-tic-tac-toe/)]  
   
 #### :fast_forward: Node.js & Fullstack apps  
-- :godmode: Fullstack (MERN) Heroes App [[CODE](https://github.com/master-bogdan/crud-fullstack) || [DEMO](https://crud-fullstack.vercel.app/)]  
+- :godmode: Fullstack (MERN) Heroes App [UNDER REFACTORING]  
 - :innocent: Timestamp microservice (NodeJS app)
 [[CODE](https://github.com/master-bogdan/timestamp-microservice) || [DEMO](https://shrouded-cove-70508.herokuapp.com/)]  
 - :space_invader: OLX NodeJS scraper [[CODE](https://github.com/master-bogdan/nodejs-olx-scraper)]  
