@@ -4,10 +4,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-bogdan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="master-bogdan" /></a> </p>
 
-<div align="left">
+<p align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=master-bogdan&show_icons=true&theme=dark&locale=en&layout=compact" alt="master-bogdan" />&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=master-bogdan&show_icons=true&theme=dark&locale=en" alt="master-bogdan" />
-</div>
+</p>
+
+<p align="left"> <img src="http://github-readme-streak-stats.herokuapp.com?user=master-bogdan&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="master-bogdan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,10 +53,8 @@ ___
 ### **Technologies which I learn now or improve my skill**
 - NestJS
 - Angular 9+
-- React unit & integration testing  
-- Docker, docker-compose
-
-<p align="left"> <img src="http://github-readme-streak-stats.herokuapp.com?user=master-bogdan&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="master-bogdan" /> </p>
+- React and Nodejs unit & integration testing  
+- Kubernetes
 ___
 
 ## :construction_worker: WORKING EXPERIENCE
