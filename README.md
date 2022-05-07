@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-bogdan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="master-bogdan" /></a> </p>
 
-<div align="center">
+<div align="center" style="display: flex;">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=master-bogdan&show_icons=true&theme=dark&locale=en&layout=compact" alt="master-bogdan" />&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=master-bogdan&show_icons=true&theme=dark&locale=en" alt="master-bogdan" />
 </div>
