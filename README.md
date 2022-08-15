@@ -32,12 +32,12 @@ ___
 - **Main**: HTML5, CSS3, JavaScript (ES6+) / TypeScript
 - **Preprocessors**: SASS / SCSS, Pug
 - **Frameworks**: 
-  - ReactJS / NextJS (Hooks, TypeScript, react-router-dom, react-redux, styled-components, scss modules, axios, and much more...) 
+  - ReactJS / NextJS (Hooks, TypeScript, react-router-dom, redux toolkit, styled-components, scss modules, axios, and much more...) 
   - Angular 9 + (basic)
 - **Ui libraries**: Bootstrap / React-bootstrap, React Material Ui, Materialize
 ### **Backend**
 - **Main**: Node.js, (Node.js + TypeScript)
-- **Databases**: Firebase Firestore, PostgreSQL, MongoDB
+- **Databases**: Firebase Firestore, PostgreSQL, MongoDB, Redis
 - **ORM/ODM**: Prisma, TypeORM, Mongoose
 - **Frameworks**: ExpressJS, NestJS 
 ### **Other**: 
@@ -51,10 +51,9 @@ ___
 - **Platforms / OS**: Linux, Windows
  
 ### **Technologies which I learn now or improve my skill**
-- NestJS
 - Angular 9+
-- React and Nodejs unit & integration testing  
 - Kubernetes
+- Microservices
 ___
 
 ## :construction_worker: WORKING EXPERIENCE
@@ -65,8 +64,8 @@ ___
 **Projects:**   
 
 - https://swag.com/  
-**Tasks**: Member of API integration team. Add new features, endpoints to Nodejs, NestJS api. Add new markup to pages, make fixes on frontend.  
-**Technologies:** ReactJS, Material UI, Nodejs(Expressjs, NestJS), TypeScript, Docker, docker-compose styled-components, PostgreSQL, Redis, MongoDB  
+**Tasks**: Member of API integration team. Add new features, endpoints to NodeJS, NestJS api. Add new markup to pages, make fixes on frontend. Integration with Shopify and third party apps.  
+**Technologies:** ReactJS, Material UI, Nodejs(ExpressJS, NestJS), TypeScript, Docker, docker-compose, styled-components, scss modules, PostgreSQL, Redis, MongoDB, TypeORM  
 ___
 
 ### 🤝 Company: **lineup.com.ua**  
@@ -75,11 +74,11 @@ ___
 **Projects:**   
 
 - Marketplace (from November 2021 - March 2022)  
-**Tasks**: Fullstack JS / Tech Lead. Designing project architecture. Setup from scratch monorepository, frontend applications. Code review, UI / UX review and managing frontend team of 3 people. Developing backend API with NestJS, SendGrid integration.  
+**Tasks**: Fullstack JS / Tech Lead. Designing project architecture. Setup from scratch monorepository, frontend applications. Code review, UI / UX review and managing frontend team of 3 people. Developing backend API with NestJS.  
 **Technologies:** ReactJS, NextJS, Material UI, Redux Toolkit, NestJS, TypeScript, Docker, SendGrid, styled-components, SwiperJS, yarn workspaces, Prisma, PostgreSQL, class-transformer, class-validator, nodemailer, minIO, socket.io  
 
 - Ecommerce (from May 2021 - November 2021)  
-**Tasks**: Frontend Lead. Build from scratch MVP web application, with React (TypeScript) for managing products, online shopping, analytics, etc... Develop Landing page with NextJS and internationalization for project. Deploy and setup dev environments in firebase. CMS Storyblok(not Storybook!), Stripe, Strapi CMS, google analytics integrations. Frontend react developers interviewing for project.   
+**Tasks**: Frontend Lead. Build from scratch MVP web application, with React (TypeScript). Project is for managing products, online shopping, analytics, etc... Develop Landing page with NextJS and internationalization for project. Deploy and setup dev environments in firebase. CMS Storyblok(not Storybook!), Stripe, Strapi CMS, google analytics integrations. Frontend react developers interviewing for project.   
 **Technologies:** ReactJS, NextJS, TypeScript, Firebase, scss modules, react-redux, redux-thunk, Storyblok CMS (not storybook), Stripe, Strapi CMS, Google places, SwiperJS, xlsx  
 
 **Tasks inside company**:  Frontend react developers interviewing, projects estimate  
