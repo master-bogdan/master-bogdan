@@ -59,7 +59,7 @@ ___
 ## :construction_worker: WORKING EXPERIENCE
 
 ### 🤝 Company: **ALEPH ONE - aleph1.io**  
-**Position:** Middle Fullstack JS engineer  
+**Position:** Fullstack JS engineer  
 **Period:** from April 2022 - Now (fulltime, remote)  
 **Projects:**   
 
