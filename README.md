@@ -58,14 +58,13 @@ ___
 - Deep JavaScript
 ___
 
-## :construction_worker: WORKING EXPERIENCE
-
+## :construction_worker: WORKING EXPERIENCE  
 ### 🤝 Company: **ALEPH ONE - aleph1.io**  
 **Position:** Fullstack JS engineer  
 **Period:** from April 2022 - Now (fulltime, remote)  
 **Projects:**   
 
-- <a href="https://swag.com/" target="_blank">https://swag.com</a>
+- [swag.com](https://swag.com)  
 **Tasks**: Member of API integration team. Add new features, endpoints to NodeJS, NestJS api. Add new markup to pages, make fixes on frontend. Integration with Shopify and third party apps/platforms. Microservices.  
 **Technologies:** ReactJS, Material UI, Nodejs(ExpressJS, NestJS), TypeScript, Docker, docker-compose, scss modules, PostgreSQL, Redis, MongoDB, TypeORM, Shopify  
 
@@ -77,11 +76,11 @@ ___
 **Period:** from May 2021 - April 2022 (12 month, fulltime, remote)  
 **Projects:**   
 
-- Marketplace (from November 2021 - March 2022)  
+- **Marketplace** (from November 2021 - March 2022)  
 **Tasks**: Fullstack JS / Tech Lead. Design project architecture. Setup from scratch project. Code review, UI / UX review and managing frontend team of 3 people. Develop backend API with NestJS and PostgreSQL. Deploy on Ubuntu server.  
 **Technologies:** ReactJS, NextJS, Material UI, Redux Toolkit, NestJS, TypeScript, Docker, SendGrid, styled-components, SwiperJS, yarn workspaces, Prisma, PostgreSQL, nodemailer, minIO, socket.io  
 
-- Ecommerce (from May 2021 - November 2021)  
+- **Ecommerce** (from May 2021 - November 2021)  
 **Tasks**: Frontend / Frontend Lead. Build from scratch MVP web application, with React (TypeScript). Deploy and setup dev, staging, prod environments on firebase. CMS Storyblok(not Storybook!), Stripe, Strapi CMS, google analytics integrations.   
 **Technologies:** ReactJS, NextJS, TypeScript, Firebase, scss modules, react-redux, redux-thunk, Storyblok CMS (not storybook), Stripe, Strapi CMS, Google places, SwiperJS, xlsx  
 
