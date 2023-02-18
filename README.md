@@ -1,3 +1,4 @@
+<base target="_blank">
 <h1 align="center">Hi 👋, I'm Bogdan Shchavinskyi</h1>
 <h3 align="center">A passionate Fullstack JS (React + Nodejs) developer from Ukraine :ukraine:</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=master-bogdan&label=Profile%20views&color=0e75b6&style=flat-square" alt="master-bogdan" /> </p>
@@ -32,7 +33,7 @@ ___
 - **Main**: HTML5, CSS3, JavaScript (ES6+) / TypeScript
 - **Preprocessors**: SASS / SCSS, Pug
 - **Frameworks**: 
-  - ReactJS / NextJS (Hooks, TypeScript, react-router-dom, redux toolkit, styled-components, scss modules, axios, and much more...) 
+  - ReactJS / NextJS (Hooks, TypeScript, redux, redux-toolkit, styled-components, css/scss modules, axios, and a lot of related stuff...) 
   - Angular 9 + (basic)
 - **Ui libraries**: Bootstrap / React-bootstrap, React Material Ui, Materialize
 ### **Backend**
@@ -42,18 +43,19 @@ ___
 - **Frameworks**: ExpressJS, NestJS 
 ### **Other**: 
 - **Tests**: react-testing-library, jest, supertest
-- **DevOps**: Docker, docker-compose
-- **Bundlers**: Webpack (basic), Gulp
+- **DevOps**: Docker, docker-compose, basic Kubernetes
+- **Bundlers**: Webpack, Gulp
 - **UX tools**: Figma, Sketch
 - **Version Control Systems**: Github, Gitlab
 - **Backend as a service**: Firebase, Heroku
 - **IDE**: VSCode
 - **Platforms / OS**: Linux, Windows
+- **Code principles**: KISS, DRY, Clean Code
  
 ### **Technologies which I learn now or improve my skill**
-- Angular 9+
 - Kubernetes
 - Microservices
+- Deep JavaScript
 ___
 
 ## :construction_worker: WORKING EXPERIENCE
@@ -63,9 +65,11 @@ ___
 **Period:** from April 2022 - Now (fulltime, remote)  
 **Projects:**   
 
-- https://swag.com/  
-**Tasks**: Member of API integration team. Add new features, endpoints to NodeJS, NestJS api. Add new markup to pages, make fixes on frontend. Integration with Shopify and third party apps.  
-**Technologies:** ReactJS, Material UI, Nodejs(ExpressJS, NestJS), TypeScript, Docker, docker-compose, styled-components, scss modules, PostgreSQL, Redis, MongoDB, TypeORM  
+- <a href="https://swag.com/" target="_blank">https://swag.com</a>
+**Tasks**: Member of API integration team. Add new features, endpoints to NodeJS, NestJS api. Add new markup to pages, make fixes on frontend. Integration with Shopify and third party apps/platforms. Microservices.  
+**Technologies:** ReactJS, Material UI, Nodejs(ExpressJS, NestJS), TypeScript, Docker, docker-compose, scss modules, PostgreSQL, Redis, MongoDB, TypeORM, Shopify  
+
+**Responsibilities inside company**:  JavaScript developers interviewing 
 ___
 
 ### 🤝 Company: **lineup.com.ua**  
@@ -74,14 +78,14 @@ ___
 **Projects:**   
 
 - Marketplace (from November 2021 - March 2022)  
-**Tasks**: Fullstack JS / Tech Lead. Designing project architecture. Setup from scratch monorepository, frontend applications. Code review, UI / UX review and managing frontend team of 3 people. Developing backend API with NestJS.  
-**Technologies:** ReactJS, NextJS, Material UI, Redux Toolkit, NestJS, TypeScript, Docker, SendGrid, styled-components, SwiperJS, yarn workspaces, Prisma, PostgreSQL, class-transformer, class-validator, nodemailer, minIO, socket.io  
+**Tasks**: Fullstack JS / Tech Lead. Design project architecture. Setup from scratch project. Code review, UI / UX review and managing frontend team of 3 people. Develop backend API with NestJS and PostgreSQL. Deploy on Ubuntu server.  
+**Technologies:** ReactJS, NextJS, Material UI, Redux Toolkit, NestJS, TypeScript, Docker, SendGrid, styled-components, SwiperJS, yarn workspaces, Prisma, PostgreSQL, nodemailer, minIO, socket.io  
 
 - Ecommerce (from May 2021 - November 2021)  
-**Tasks**: Frontend Lead. Build from scratch MVP web application, with React (TypeScript). Project is for managing products, online shopping, analytics, etc... Develop Landing page with NextJS and internationalization for project. Deploy and setup dev environments in firebase. CMS Storyblok(not Storybook!), Stripe, Strapi CMS, google analytics integrations. Frontend react developers interviewing for project.   
+**Tasks**: Frontend / Frontend Lead. Build from scratch MVP web application, with React (TypeScript). Deploy and setup dev, staging, prod environments on firebase. CMS Storyblok(not Storybook!), Stripe, Strapi CMS, google analytics integrations.   
 **Technologies:** ReactJS, NextJS, TypeScript, Firebase, scss modules, react-redux, redux-thunk, Storyblok CMS (not storybook), Stripe, Strapi CMS, Google places, SwiperJS, xlsx  
 
-**Tasks inside company**:  Frontend react developers interviewing, projects estimate  
+**Responsibilities inside company**:  Frontend react developers interviewing, projects estimate  
 ___
 
 ### 🤝 Company: **yougotit.agency**  
@@ -89,11 +93,11 @@ ___
 **Period:** from December 2020 - April 2021 (6 month, part-time, Remote)  
 **Projects:**   
 - Webservice for online shopping    
-**Task**:  Develop frontend with ReactJS for rooms for online shopping, with stream video, online chat
+**Tasks**:  Develop frontend with ReactJS for rooms for online shopping, with stream video, online chat
 - Service for analyzing news, converting voice message to text   
-**Task**:  Develop from scratch dashboard for feature API integration with ReactJS
-- Landing pages for online shopping webservice   
-**Task**:  Develop Landing pages with NextJS  
+**Tasks**:  Develop from scratch dashboard for feature API integration with ReactJS
+- Landing pages for online shopping web service   
+**Tasks**:  Develop Landing pages with NextJS  
 
 **Technologies:** ReactJS, Next.js, styled-components, MaterialUI, ReactJS, react-select, react-redux, react-draft-wysiwyg, react-router-dom  
 ___
@@ -103,13 +107,13 @@ ___
 **Period:** from September 2020 - April 2021 (8 month, part-time, Remote)  
 **Projects:**   
 - [pay.kuna.io/uk](https://pay.kuna.io/uk)    
-**Task**:  Redo website from contructor to NextJS, add internationalization
+**Tasks**:  Redo website from contructor to NextJS, add internationalization
 - [xreserve.fund/uk](https://xreserve.fund/uk)   
-**Task**:  Redo website from contructor to NextJS, add internationalization
+**Tasks**:  Redo website from contructor to NextJS, add internationalization
 - [frontback.org](https://frontback.org/)   
-**Task**:  Basic project setup, adding most of UI components
+**Tasks**:  Basic project setup, adding most of UI components
 - [criticalsites.wetlands.org](https://criticalsites.wetlands.org/en)   
-**Task**:  Adding new features (popup with detailed data), some Ui fixes
+**Tasks**:  Adding new features (popup with detailed data), some Ui fixes
 - Company Ticket System   
 **Task**:  Develop company inner service to process tickets from clients, with sorting, data analysis, with firebase backend   
 
@@ -137,9 +141,9 @@ ___
 #### :fast_forward: Node.js & Fullstack apps  
 - :godmode: Fullstack (MERN) Heroes App [UNDER REFACTORING]  
 - :innocent: Timestamp microservice (NodeJS app)
-[[CODE](https://github.com/master-bogdan/timestamp-microservice) || [DEMO](https://shrouded-cove-70508.herokuapp.com/)]  
+[[CODE](https://github.com/master-bogdan/timestamp-microservice)]  
 - :space_invader: OLX NodeJS scraper [[CODE](https://github.com/master-bogdan/nodejs-olx-scraper)]  
-- :lock: Simple Fullstack (React + Nodejs) Auth App [[CODE](https://github.com/master-bogdan/fulllstack-auth) || [DEMO](https://fullstack-auth.herokuapp.com/)]  
+- :lock: Simple Fullstack (React + Nodejs) Auth App [[CODE](https://github.com/master-bogdan/fulllstack-auth)]  
 
 #### :fast_forward: React.js apps
 - :dart: React memory game (11.02.2020 refactored)
