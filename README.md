@@ -33,14 +33,14 @@ ___
 - **Main**: HTML5, CSS3, JavaScript (ES6+) / TypeScript
 - **Preprocessors**: SASS / SCSS, Pug
 - **Frameworks**: 
-  - ReactJS / NextJS (Hooks, TypeScript, redux, redux-toolkit, styled-components, css/scss modules, axios, and a lot of related stuff...) 
+  - React.js / Next.js (Hooks, TypeScript, react-router, redux, redux-toolkit, styled-components, css/scss modules, axios, and a lot of related stuff to React ecosystem...) 
   - Angular 9 + (basic)
 - **Ui libraries**: Bootstrap / React-bootstrap, React Material Ui, Materialize
 ### **Backend**
 - **Main**: Node.js, (Node.js + TypeScript)
-- **Databases**: Firebase Firestore, PostgreSQL, MongoDB, Redis
+- **Databases**: PostgreSQL, MongoDB, Redis, Firebase Firestore
 - **ORM/ODM**: Prisma, TypeORM, Mongoose
-- **Frameworks**: ExpressJS, NestJS 
+- **Frameworks**: Express.js, Nest.js 
 ### **Other**: 
 - **Tests**: react-testing-library, jest, supertest
 - **DevOps**: Docker, docker-compose, basic Kubernetes
