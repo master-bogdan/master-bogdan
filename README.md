@@ -29,18 +29,22 @@
 ___
 
 ## :chart_with_upwards_trend: LANGUAGES AND TOOLS:
+### **Programing languages**
+- JavaScript (ES6+)
+- TypeScript  
 ### **Frontend**
-- **Main**: HTML5, CSS3, JavaScript (ES6+) / TypeScript
+- **Main**: HTML5, CSS3
 - **Preprocessors**: SASS / SCSS, Pug
 - **Frameworks**: 
   - React.js / Next.js (Hooks, TypeScript, react-router, redux, redux-toolkit, styled-components, css/scss modules, axios, and a lot of related stuff to React ecosystem...) 
   - Angular 9 + (basic)
 - **Ui libraries**: Bootstrap / React-bootstrap, React Material Ui, Materialize
 ### **Backend**
-- **Main**: Node.js, (Node.js + TypeScript)
+- **Main**: Node.js
 - **Databases**: PostgreSQL, MongoDB, Redis, Firebase Firestore
 - **ORM/ODM**: Prisma, TypeORM, Mongoose
-- **Frameworks**: Express.js, Nest.js 
+- **Frameworks**: Express.js, Nest.js
+- **Message brokers**: RabbitMQ
 ### **Other**: 
 - **Tests**: react-testing-library, jest, supertest
 - **DevOps**: Docker, docker-compose, basic Kubernetes
