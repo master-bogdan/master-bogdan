@@ -119,8 +119,8 @@ ___
 **Technologies:** React, Next.js, styled-components, MaterialUI, ReactJS, TypeScript, Firebase, react-redux, i18next, NodeJS  
 ___
 
-### 🤝 **Freelance** freelancehunt.com - [link to my profile](https://freelancehunt.com/freelancer/master-bogdan.html)  
-**Period:** from August 2020 - May 2021 (10 month)  
+### 🤝 **Freelance** 
+**Period:** from August 2019 - May 2021 (1 year 10 month)  
 **Tasks:** Develop from scratch React projects, fix bugs on existing projects, HTML / CSS / JS codding   
 **Technologies:** Next.js, styled-components, MaterialUI, ReactJS, NodeJS, express, TypeScript, Firebase  
 ___
