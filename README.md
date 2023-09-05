@@ -71,7 +71,7 @@ ___
 ___
 
 ### 🤝 Company: **lineup.ua**  
-**Position:** React Fron-tend Developer / Lead JavaScript Full-stack Developer  
+**Position:** React Front-end Developer / Lead JavaScript Full-stack Developer  
 **Period:** from May 2021 - April 2022 (12 month, fulltime, remote)  
 **Projects:**   
 
@@ -87,7 +87,7 @@ ___
 ___
 
 ### 🤝 Company: **frontback.org**  
-**Position:** Junior ReactJS, Fullstack developer  
+**Position:** Junior React.js Devloper, Full-stack Developer  
 **Period:** from September 2020 - April 2021 (8 month, part-time, Remote)  
 **Projects:**   
 - [pay.kuna.io/uk](https://pay.kuna.io/uk)    
