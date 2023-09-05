@@ -1,6 +1,6 @@
 <base target="_blank">
 <h1 align="center">Hi 👋, I'm Bogdan Shchavinskyi</h1>
-<h3 align="center">A passionate Full stack Developer / Full stack Engineer from Ukraine :ukraine:</h3>
+<h3 align="center">A passionate Full-Stack Developer / Full-Stack Engineer from Ukraine :ukraine:</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=master-bogdan&label=Profile%20views&color=0e75b6&style=flat-square" alt="master-bogdan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-bogdan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="master-bogdan" /></a> </p>
@@ -55,16 +55,11 @@ ___
 - **IDE**: VSCode
 - **Platforms / OS**: Linux, Windows
 - **Code principles**: KISS, DRY, Clean Code
- 
-### **Technologies which I learn now or improve my skill**
-- Kubernetes
-- Microservices
-- Deep JavaScript
 ___
 
 ## :construction_worker: WORKING EXPERIENCE  
 ### 🤝 Company: **ALEPH ONE - aleph1.io**  
-**Position:** Fullstack JS engineer  
+**Position:** JavaScript Full-stack Engineer  
 **Period:** from April 2022 - Now (fulltime, remote)  
 **Projects:**   
 
@@ -75,13 +70,13 @@ ___
 **Responsibilities inside company**:  JavaScript developers interviewing 
 ___
 
-### 🤝 Company: **lineup.com.ua**  
-**Position:** React Frontend developer / Lead Fullstack JS developer  
+### 🤝 Company: **lineup.ua**  
+**Position:** React Fron-tend Developer / Lead JavaScript Full-stack Developer  
 **Period:** from May 2021 - April 2022 (12 month, fulltime, remote)  
 **Projects:**   
 
 - **Marketplace** (from November 2021 - March 2022)  
-**Tasks**: Fullstack JS / Tech Lead. Design project architecture. Setup from scratch project. Code review, UI / UX review and managing frontend team of 3 people. Develop backend API with NestJS and PostgreSQL. Deploy on Ubuntu server.  
+**Tasks**: Full-stack JavaScript Tech Lead. Design project architecture. Setup from scratch project. Code review, UI / UX review and managing team of 5 people. Develop backend API with NestJS and PostgreSQL. Deploy on Ubuntu server.  
 **Technologies:** ReactJS, NextJS, Material UI, Redux Toolkit, NestJS, TypeScript, Docker, SendGrid, styled-components, SwiperJS, yarn workspaces, Prisma, PostgreSQL, nodemailer, minIO, socket.io  
 
 - **Ecommerce** (from May 2021 - November 2021)  
@@ -89,20 +84,6 @@ ___
 **Technologies:** ReactJS, NextJS, TypeScript, Firebase, scss modules, react-redux, redux-thunk, Storyblok CMS (not storybook), Stripe, Strapi CMS, Google places, SwiperJS, xlsx  
 
 **Responsibilities inside company**:  Frontend react developers interviewing, projects estimate  
-___
-
-### 🤝 Company: **yougotit.agency**  
-**Position:** ReactJS, NextJS developer  
-**Period:** from December 2020 - April 2021 (6 month, part-time, Remote)  
-**Projects:**   
-- Webservice for online shopping    
-**Tasks**:  Develop frontend with ReactJS for rooms for online shopping, with stream video, online chat
-- Service for analyzing news, converting voice message to text   
-**Tasks**:  Develop from scratch dashboard for feature API integration with ReactJS
-- Landing pages for online shopping web service   
-**Tasks**:  Develop Landing pages with NextJS  
-
-**Technologies:** ReactJS, Next.js, styled-components, MaterialUI, ReactJS, react-select, react-redux, react-draft-wysiwyg, react-router-dom  
 ___
 
 ### 🤝 Company: **frontback.org**  
