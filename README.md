@@ -108,27 +108,3 @@ ___
 **Period:** from August 2019 - May 2021 (1 year 10 month)  
 **Tasks:** Develop from scratch React projects, fix bugs on existing projects, HTML / CSS / JS codding   
 **Technologies:** Next.js, styled-components, MaterialUI, ReactJS, NodeJS, express, TypeScript, Firebase  
-___
-
-## My training or PET projects
-***In all projects README.md with instructions**  
-****Projects sorted from oldest to new**
-
-#### :fast_forward: Vanilla JS apps
-- :sunny: :umbrella: :cloud: Weather app 
-[[code](https://github.com/master-bogdan/weather-app) || [demo](https://master-bogdan.github.io/weather-app/)]
-- :video_game: Tetris
-[[code](https://github.com/master-bogdan/js-tetris) || [demo](https://master-bogdan.github.io/js-tetris/)]
-- :video_game: Tic Tac Toe
-[[code](https://github.com/master-bogdan/js-tic-tac-toe) || [demo](https://master-bogdan.github.io/js-tic-tac-toe/)]  
-  
-#### :fast_forward: Node.js & Fullstack apps  
-- :godmode: Fullstack (MERN) Heroes App [UNDER REFACTORING]  
-- :innocent: Timestamp microservice (NodeJS app)
-[[CODE](https://github.com/master-bogdan/timestamp-microservice)]  
-- :space_invader: OLX NodeJS scraper [[CODE](https://github.com/master-bogdan/nodejs-olx-scraper)]  
-- :lock: Simple Fullstack (React + Nodejs) Auth App [[CODE](https://github.com/master-bogdan/fulllstack-auth)]  
-
-#### :fast_forward: React.js apps
-- :dart: React memory game (11.02.2020 refactored)
-[[CODE](https://github.com/master-bogdan/react-memory-pair-game/tree/master) || [DEMO](https://master-bogdan.github.io/react-memory-pair-game/)]  
