@@ -12,6 +12,7 @@
 
 <p align="left"> <img src="http://github-readme-streak-stats.herokuapp.com?user=master-bogdan&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="master-bogdan" /> </p>
 
+- 📫 How to reach me **workmasterbogdan@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/bogdan-shchavinskyi-%F0%9F%87%BA%F0%9F%87%A6-a36910146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bogdan-shchavinskyi-a36910146" height="30" width="40" /></a>
