@@ -27,11 +27,10 @@
 
 ___
 
-## :chart_with_upwards_trend: LANGUAGES AND TOOLS:
+## 📈 LANGUAGES AND TOOLS:
 ### **Programing languages**
 - JavaScript (ES6+)
 - TypeScript
-- Java
 ### **Frontend**
 - **Main**: HTML5, CSS3
 - **Preprocessors**: SASS / SCSS, Pug
