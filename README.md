@@ -48,7 +48,7 @@ ___
 - **Message brokers**: RabbitMQ
 ### **Other**: 
 - **Tests**: react-testing-library, jest, supertest
-- **DevOps**: Docker, docker-compose, basic Kubernetes
+- **DevOps**: Docker, docker-compose, Amazon Web Services (AWS), Github actions
 - **Bundlers**: Webpack, Gulp
 - **UX tools**: Figma, Sketch
 - **Version Control Systems**: Github, Gitlab
