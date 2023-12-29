@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-bogdan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="master-bogdan" /></a> </p>
 
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=master-bogdan&show_icons=true&theme=dark&locale=en&layout=donut&hide=java,vue" alt="master-bogdan" />&nbsp;
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=master-bogdan&show_icons=true&theme=dark&locale=en&layout=donut&hide=java,vue&langs_count=8" alt="master-bogdan" />&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=master-bogdan&show_icons=true&theme=dark&locale=en" alt="master-bogdan" />
 </p>
 
