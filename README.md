@@ -31,6 +31,7 @@ ___
 ### **Programing languages**
 - JavaScript (ES6+)
 - TypeScript
+- Python
 ### **Frontend**
 - **Main**: HTML5, CSS3
 - **Preprocessors**: SASS / SCSS, Pug
