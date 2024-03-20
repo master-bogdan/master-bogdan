@@ -55,7 +55,7 @@ ___
 - **Version Control Systems**: Github, Gitlab
 - **Backend as a service**: Firebase, Heroku
 - **IDE**: VSCode
-- **Platforms / OS**: Linux, Windows
+- **Platforms / OS**: Linux, MacOS
 - **Code principles**: KISS, DRY, Clean Code
 ___
  
