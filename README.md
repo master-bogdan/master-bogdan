@@ -42,11 +42,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/master-bogdan/master-bogdan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/master-bogdan/master-bogdan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/master-bogdan/master-bogdan/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/master-bogdan/master-bogdan/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -60,10 +56,3 @@
 </div>
 
 ###
-
-<p align="left">
-  <span>:muscle: => </span>
-  <a href="https://github.com/master-bogdan/master-bogdan/tree/master/certificates" target="_blank">
-   My certifications from passed courses and tests
-  </a>
-</p>
